@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on TOBEIF</title>
+    <link>http://localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on TOBEIF</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My newest post</title>
+      <link>http://localhost:1313/posts/this-is-my-second-post/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/this-is-my-second-post/</guid>
+      <description>&lt;p&gt;#Introduction&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;is this working?&lt;/strong&gt; and what does &lt;em&gt;emphasized&lt;/em&gt; actually mean?&lt;/p&gt;&#xA;&lt;p&gt;#SecondPArt&lt;/p&gt;&#xA;&lt;p&gt;Is this coming through? And how the fuck do I write headlines and stuff&lt;/p&gt;&#xA;&lt;p&gt;##What about this&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/tobeif.jpg&#34; width=&#34;400&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;title of image&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;and I still like it&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
