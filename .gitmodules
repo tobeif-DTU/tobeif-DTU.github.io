@@ -1,3 +1,7 @@
 [submodule "themes/terminal"]
 	path = themes/terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
+
+[submodule "themes/terminal"]
+	path = themes/hugo-paper
+	url = https://github.com/nanxiaobei/hugo-paper
