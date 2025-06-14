@@ -10,3 +10,5 @@ tags:
 For example a race car
 
 {{< figure src="/images/download.jpg" title="title of image" width="400">}}
+
+asdfasdasd
