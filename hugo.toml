@@ -1,30 +1,61 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'TOBEIF'
-theme = 'hugo-paper'
+baseurl = "https://example.org/"  # please update this to your actual URL
+languageCode = "en-us"
+title = "tobeif-DTU"
+theme = "paper"
 
-[services]
-  [services.disqus]
-    shortname = 'YOUR_DISQUS_SHORTNAME'     # use disqus comments
+
+#[services]
+#  [services.disqus]
+#  shortname = 'YOUR_DISQUS_SHORTNAME'     # use disqus comments
 
 [params]
   # color style
   color = 'linen'                           # linen, wheat, gray, light
 
   # header social icons
-  #twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
-  github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
-  #instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
-  linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
-  #mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
-  #threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
-  #bluesky = 'YOUR_BLUESKY_ID'               # https://bsky.app/profile/YOUR_BLUESKY_ID
-  #rss = true                                # show rss icon
+  # twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
+  github = 'tobeif-DTU'                 	# github.com/YOUR_GITHUB_ID
+  # instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
+  linkedin = 'tobias-eifler-4462654b'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  # mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+  # threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
+  # bluesky = 'YOUR_BLUESKY_ID'               # https://bsky.app/profile/YOUR_BLUESKY_ID
+  # rss = true                                # show rss icon
 
   # home page profile
-  avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
-  name = 'Tobias'
-  bio = 'I am an Associate Professor in Advanced Engineering Design at DTU (Technical University of Denmark) at the Department of Civl & Mechanical Engineering. My research includes Design Automation, Robust Design & Geometry Assurance, and Design for Remanufacturing, quickly summmarised all topics related to the question how we address variation and uncertainty as part of the design process. I am interested in how engineering systems can benefit our lives and assist us in better doing the things we care about.'
+  
+  avatar = "tobeifler@gmail.com"                 # gravatar email or image url
+  name = "Tobias Eifler"
+  bio = "I am an Associate Professor in Engineering Design and Manufacturing Systems at DTU (Technical University of Denmark) at the Department of Civil & Mechanical Engineering. My research includes Human-Computer Interaction, User Experience, Human-Centered Artificial Intelligence, Eye Tracking, Cognitive Neuroscience and Digital Media. I am interested in how digital systems can benefit our lives and assist us in better doing the things we care about."
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "Research"
+    name = "Research"
+    url = "/Research"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "Courses"
+    name = "Courses"
+    url = "/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "Supervision"
+    name = "Supervision"
+    url = "/"
+    weight = 3
+
+
 
 
   # misc
@@ -39,14 +70,6 @@ theme = 'hugo-paper'
   appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
 
   # RTL supprot
-  direction = "rtl"                         # RTL support for Right-to-left languages
+  direction = "ltr"                         # RTL support for Right-to-left languages
 
-  # giscus
-[params.giscus]
-  repo = 'YOUR_GISCUS_REPO'                 # see https://giscus.app for more details
-  repoId = 'YOUR_GISCUS_REPO_ID'
-  category = 'YOUR__GISCUS_CATEGORY'
-  categoryId = 'YOUR_GISCUS_CATEGORY_ID'
-  mapping = 'pathname'
-  theme = 'light'
-  lang = 'zh-CN'
+

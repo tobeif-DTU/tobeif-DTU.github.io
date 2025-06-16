@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sadasd on TOBEIF</title>
+    <title>Sadasd on tobeif-DTU</title>
     <link>http://localhost:1313/tags/sadasd/</link>
-    <description>Recent content in Sadasd on TOBEIF</description>
+    <description>Recent content in Sadasd on tobeif-DTU</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
@@ -27,7 +27,7 @@
       <link>http://localhost:1313/posts/here-you-go/</link>
       <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/here-you-go/</guid>
-      <description>&lt;h1 id=&#34;just-another-try-to-do-something-fun&#34;&gt;just another try to do something fun&lt;/h1&gt;&#xA;&lt;p&gt;For example a race car&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/download.jpg&#34; width=&#34;400&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;title of image&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+      <description>&lt;h1 id=&#34;just-another-try-to-do-something-fun&#34;&gt;just another try to do something fun&lt;/h1&gt;&#xA;&lt;p&gt;For example a race car&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/download.jpg&#34; width=&#34;400&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;title of image&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;asdfasdasd&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
