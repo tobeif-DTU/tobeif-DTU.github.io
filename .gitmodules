@@ -21,7 +21,3 @@
 [submodule "themes/hugo-universal-theme"]
 	path = themes/hugo-universal-theme
 	url = https://github.com/devcows/hugo-universal-theme
-
-[submodule "themes/hugo-xmin"]
-	path = themes/hugo-xmin
-	url = https://github.com/yihui/hugo-xmin
