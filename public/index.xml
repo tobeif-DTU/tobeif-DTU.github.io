@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>tobeif-DTU</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on tobeif-DTU</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -13,28 +13,58 @@
       <link>http://localhost:1313/posts/this-is-my-first-post/</link>
       <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/this-is-my-first-post/</guid>
-      <description>&lt;h1 id=&#34;and-here-something-new&#34;&gt;And here something new&lt;/h1&gt;&#xA;&lt;p&gt;Why do we actually always try stuff like that?&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;and-here-something-new&#34;&gt;And here something new&lt;/h1&gt;
+&lt;p&gt;Why do we actually always try stuff like that?&lt;/p&gt;</description>
     </item>
     <item>
       <title>This is my newest thought</title>
       <link>http://localhost:1313/posts/this-is-my-second-post/</link>
       <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/this-is-my-second-post/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;is this working?&lt;/strong&gt; and what does &lt;em&gt;emphasized&lt;/em&gt; actually mean?&lt;/p&gt;&#xA;&lt;h2 id=&#34;secondpart&#34;&gt;SecondPArt&lt;/h2&gt;&#xA;&lt;p&gt;Is this coming through? And how the fuck do I write headlines and stuff&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-about-this&#34;&gt;What about this&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/tobeif.jpg&#34; width=&#34;400&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;title of image&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;and I still like it&lt;/p&gt;&#xA;&lt;h1 id=&#34;yes-and-no&#34;&gt;Yes and no?&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;is this working?&lt;/strong&gt; and what does &lt;em&gt;emphasized&lt;/em&gt; actually mean?&lt;/p&gt;
+&lt;h2 id=&#34;secondpart&#34;&gt;SecondPArt&lt;/h2&gt;
+&lt;p&gt;Is this coming through? And how the fuck do I write headlines and stuff&lt;/p&gt;
+&lt;h2 id=&#34;what-about-this&#34;&gt;What about this&lt;/h2&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/tobeif.jpg&#34; width=&#34;400&#34;/&gt; &lt;figcaption&gt;
+            title of image
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;and I still like it&lt;/p&gt;
+&lt;h1 id=&#34;yes-and-no&#34;&gt;Yes and no?&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Thisdsdsadt</title>
       <link>http://localhost:1313/posts/here-you-go/</link>
       <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/here-you-go/</guid>
-      <description>&lt;h1 id=&#34;just-another-try-to-do-something-fun&#34;&gt;just another try to do something fun&lt;/h1&gt;&#xA;&lt;p&gt;For example a race car&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/download.jpg&#34; width=&#34;400&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;title of image&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;asdfasdasd&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;just-another-try-to-do-something-fun&#34;&gt;just another try to do something fun&lt;/h1&gt;
+&lt;p&gt;For example a race car&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/download.jpg&#34; width=&#34;400&#34;/&gt; &lt;figcaption&gt;
+            title of image
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;asdfasdasd&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
-      <description>&lt;h1 id=&#34;my-research-is-fantastic&#34;&gt;My research is fantastic&lt;/h1&gt;&#xA;&lt;h2 id=&#34;sometimes-at-least&#34;&gt;Sometimes at least&lt;/h2&gt;&#xA;&lt;p&gt;That is what I hope at least&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/tobeif.jpg&#34; width=&#34;400&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;title of image&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/tobeif.png&#34; alt=&#34;Scenario 1: Across columns&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;my-research-is-fantastic&#34;&gt;My research is fantastic&lt;/h1&gt;
+&lt;h2 id=&#34;sometimes-at-least&#34;&gt;Sometimes at least&lt;/h2&gt;
+&lt;p&gt;That is what I hope at least&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/tobeif.jpg&#34; width=&#34;400&#34;/&gt; &lt;figcaption&gt;
+            title of image
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img alt=&#34;Scenario 1: Across columns&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/tobeif.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

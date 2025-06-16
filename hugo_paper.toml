@@ -1,7 +1,7 @@
 baseurl = "https://example.org/"  # please update this to your actual URL
 languageCode = "en-us"
 title = "tobeif-DTU"
-theme = "PaperMod"
+theme = "paper"
 
 
 #[services]

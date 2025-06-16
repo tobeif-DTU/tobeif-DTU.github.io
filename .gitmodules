@@ -14,9 +14,9 @@
 	path = themes/anatole
 	url = https://github.com/lxndrblz/anatole
 
-[submodule "themes/paper"]
-	path = themes/paper
-	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://themes.gohugo.io/themes/hugo-papermod/
 
 [submodule "themes/hugo-universal-theme"]
 	path = themes/hugo-universal-theme
