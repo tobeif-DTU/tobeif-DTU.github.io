@@ -3,7 +3,11 @@ languageCode = "en-us"
 title = "tobeif-DTU"
 theme = "PaperMod"
 
-
+[params]
+imageUrl = "/static/images/tobeif.png"
+imageTitle = "<title of image as alt>"
+imageWidth = 120
+imageHeight = 120
 
 
 [menu]
@@ -23,13 +27,13 @@ theme = "PaperMod"
   [[menu.main]]
     identifier = "Courses"
     name = "Courses"
-    url = "/"
+    url = "/Courses"
     weight = 3
 
   [[menu.main]]
     identifier = "Supervision"
     name = "Supervision"
-    url = "/"
+    url = "/Supervision"
     weight = 3
 
 
