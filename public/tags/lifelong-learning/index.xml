@@ -6,8 +6,8 @@
     <description>Recent content in Lifelong Learning on tobeif-DTU</description>
     <image>
       <title>tobeif-DTU</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <url>http://localhost:1313/dimages/papermo-cover.png</url>
+      <link>http://localhost:1313/dimages/papermo-cover.png</link>
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
@@ -17,9 +17,9 @@
       <link>http://localhost:1313/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/courses/</guid>
-      <description>&lt;h1 id=&#34;41603-engineering-design--problem-solving&#34;&gt;41603 Engineering Design &amp;amp; Problem solving&lt;/h1&gt;
-&lt;h1 id=&#34;4102829-design-of-mechatronic-systems&#34;&gt;41028/29 Design of mechatronic systems&lt;/h1&gt;
-&lt;h1 id=&#34;41635-robust-design-of-products--mechanisms&#34;&gt;41635 Robust Design of products &amp;amp; mechanisms&lt;/h1&gt;</description>
+      <description>&lt;h3 id=&#34;41603-engineering-design--problem-solving&#34;&gt;41603 Engineering Design &amp;amp; Problem solving&lt;/h3&gt;
+&lt;h3 id=&#34;4102829-design-of-mechatronic-systems&#34;&gt;41028/29 Design of mechatronic systems&lt;/h3&gt;
+&lt;h3 id=&#34;41635-robust-design-of-products--mechanisms&#34;&gt;41635 Robust Design of products &amp;amp; mechanisms&lt;/h3&gt;</description>
     </item>
   </channel>
 </rss>
