@@ -8,37 +8,35 @@ tags:
 ---
 
 
-# Current projects
+##  Current projects
 We usually have some projects "on stock", which you find below. You will find that many of the suggested projects closely relate to either ongoing research projects or also our interest in a variety of new research areas. 
 
 Therefore, please also check out the [Research]({{< relref path=Research.md >}}) section in case that you're having an idea for a MSc/BSc thesis topic. Projects that address/relate to one of our current research directions will usually be prioritized (partly due to time and resource constraints, but also to ensure suitable supervision). 
 
 
-###  Robust & Tolerance Design of Audio Equipment
-
--  **Robust & Tolerance Design of Audio Equipment**
-	in collaboration with [Sowa](https://www.sowasound.com/), a Brand that started at DTU and delivers advanced wireless technology solutions in timeless Danish design.
+####  Robust & Tolerance Design of Audio Equipment
+in collaboration with [Sowa](https://www.sowasound.com/), a Brand that started at DTU and delivers advanced wireless technology solutions in timeless Danish design.
 	![alt](https://images.squarespace-cdn.com/content/v1/64f72746c655ff0cf5caeed1/33220060-297f-4f45-91c2-340e23db7475/Explosion+live6.png?format=2500w)
   
-- **Robust Design Optimisation of plastic structures**
-	  in collaboration with [Perma Pedal](https://permapadel.com/) a startup a DTU that rethinks the design and manufacturing of Pedal rackets. 
+#### Robust Design Optimisation of plastic structures
+  in collaboration with [Perma Pedal](https://permapadel.com/) a startup a DTU that rethinks the design and manufacturing of Pedal rackets. 
 	![alt](https://cdn.shopify.com/s/files/1/0862/7152/5212/files/LUT2-12.jpg?v=1743267797&width=1440)
   
  
-- **Remanufactory projects**
+#### Remanufactory projects
 	- *Design & Construction of Disassembly Stations* 
 	  Help us building up of physical setup here at DTU, and develop a suitable reconfigurable disassembly set-up for the remanufactury
 	- *(Dis)assemble them all*
 	  Automatic disassembly planning using CAD
 
-- **AI-based enrichment of Design Data (3D classification / LLM / Graph representation learning** 
+#### AI-based enrichment of Design Data (3D classification / LLM / Graph representation learning** 
   ![Image alt](/images/azembra.png)
 
 
 
 ---
 
-# Preparing for a Thesis
+## Preparing for a Thesis
 
 It’s fine to come and ask for a thesis subject. I usually have several research ideas “on stock” that are be suitable for a thesis topic. You may also have an idea yourself, but as mentioned above, I would need to give preference to topics that are releated to our ongoing research.
 
@@ -105,7 +103,7 @@ In particular, it’s important to ensure the thesis contains both empirical ele
 
 ---
 
-# Supervision process
+## Supervision process
 
 Typically, we meet every 2 weeks in a commom meeting with all project students. All other required supervision will be organised according to your needs (usually the supervision slots are Tuesday & Wednesday given other teaching duties).
 

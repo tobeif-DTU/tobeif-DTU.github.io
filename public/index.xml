@@ -4,6 +4,11 @@
     <title>tobeif-DTU</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on tobeif-DTU</description>
+    <image>
+      <title>tobeif-DTU</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
