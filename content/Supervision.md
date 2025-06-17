@@ -31,7 +31,7 @@ in collaboration with [Sowa](https://www.sowasound.com/), a Brand that started a
 	  Automatic disassembly planning using CAD
 
 #### AI-based enrichment of Design Data (3D classification / LLM / Graph representation learning** 
-  ![Image alt](/images/azembra.png)
+[Image alt](/images/azembra.png)
 
 
 
