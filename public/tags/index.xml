@@ -6,13 +6,40 @@
     <description>Recent content in Tags on tobeif-DTU</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sadasd</title>
-      <link>http://localhost:1313/tags/sadasd/</link>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sadasd/</guid>
+      <title>Courses</title>
+      <link>http://localhost:1313/tags/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/courses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lifelong Learning</title>
+      <link>http://localhost:1313/tags/lifelong-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lifelong-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MSc/BSc Projects</title>
+      <link>http://localhost:1313/tags/msc/bsc-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/msc/bsc-projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/tags/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/publications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/tags/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/research/</guid>
       <description></description>
     </item>
   </channel>

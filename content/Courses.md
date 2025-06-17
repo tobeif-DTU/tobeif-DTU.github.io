@@ -1,7 +1,17 @@
+---
+title: Our Teaching
+ShowToc: true
+draft: false
+tags:
+  - Courses
+  - Lifelong learning
+---
 
-# I am giving far too many courses
+# 41603 Engineering Design & Problem solving
 
-## I mean they are really fun
+# 41028/29 Design of mechatronic systems
 
-## But stealing too much time from research
+# 41635 Robust Design of products & mechanisms
+
+
 

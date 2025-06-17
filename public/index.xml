@@ -6,72 +6,40 @@
     <description>Recent content on tobeif-DTU</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This is my newest thought</title>
-      <link>http://localhost:1313/posts/this-is-my-first-post/</link>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/this-is-my-first-post/</guid>
-      <description>&lt;h1 id=&#34;and-here-something-new&#34;&gt;And here something new&lt;/h1&gt;
-&lt;p&gt;Why do we actually always try stuff like that?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>This is my newest thought</title>
-      <link>http://localhost:1313/posts/this-is-my-second-post/</link>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/this-is-my-second-post/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;is this working?&lt;/strong&gt; and what does &lt;em&gt;emphasized&lt;/em&gt; actually mean?&lt;/p&gt;
-&lt;h2 id=&#34;secondpart&#34;&gt;SecondPArt&lt;/h2&gt;
-&lt;p&gt;Is this coming through? And how the fuck do I write headlines and stuff&lt;/p&gt;
-&lt;h2 id=&#34;what-about-this&#34;&gt;What about this&lt;/h2&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/tobeif.jpg&#34; width=&#34;400&#34;/&gt; &lt;figcaption&gt;
-            title of image
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;and I still like it&lt;/p&gt;
-&lt;h1 id=&#34;yes-and-no&#34;&gt;Yes and no?&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>Thisdsdsadt</title>
-      <link>http://localhost:1313/posts/here-you-go/</link>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/here-you-go/</guid>
-      <description>&lt;h1 id=&#34;just-another-try-to-do-something-fun&#34;&gt;just another try to do something fun&lt;/h1&gt;
-&lt;p&gt;For example a race car&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/download.jpg&#34; width=&#34;400&#34;/&gt; &lt;figcaption&gt;
-            title of image
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;asdfasdasd&lt;/p&gt;</description>
-    </item>
-    <item>
       <title></title>
-      <link>http://localhost:1313/courses/</link>
+      <link>http://localhost:1313/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/</guid>
-      <description>&lt;h1 id=&#34;i-am-giving-far-too-many-courses&#34;&gt;I am giving far too many courses&lt;/h1&gt;
-&lt;h2 id=&#34;i-mean-they-are-really-fun&#34;&gt;I mean they are really fun&lt;/h2&gt;
-&lt;h2 id=&#34;but-stealing-too-much-time-from-research&#34;&gt;But stealing too much time from research&lt;/h2&gt;</description>
+      <guid>http://localhost:1313/home/</guid>
+      <description>&lt;p&gt;to follow shortly &amp;hellip;  (in the meantime just a visual overview)&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image alt&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/Research.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>Our Research</title>
       <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
-      <description>&lt;h1 id=&#34;my-research-is-fantastic&#34;&gt;My research is fantastic&lt;/h1&gt;
-&lt;h2 id=&#34;sometimes-at-least&#34;&gt;Sometimes at least&lt;/h2&gt;
-&lt;p&gt;That is what I hope at least&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/tobeif.jpg&#34; width=&#34;400&#34;/&gt; &lt;figcaption&gt;
-            title of image
-        &lt;/figcaption&gt;
-&lt;/figure&gt;</description>
+      <description>&lt;p&gt;to follow shortly &amp;hellip;  (in the meantime just a visual overview)&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image alt&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/Research.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Teaching</title>
+      <link>http://localhost:1313/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/</guid>
+      <description>&lt;h1 id=&#34;41603-engineering-design--problem-solving&#34;&gt;41603 Engineering Design &amp;amp; Problem solving&lt;/h1&gt;
+&lt;h1 id=&#34;4102829-design-of-mechatronic-systems&#34;&gt;41028/29 Design of mechatronic systems&lt;/h1&gt;
+&lt;h1 id=&#34;41635-robust-design-of-products--mechanisms&#34;&gt;41635 Robust Design of products &amp;amp; mechanisms&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Supervision &amp; Projects</title>
+      <link>http://localhost:1313/supervision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/supervision/</guid>
+      <description>&lt;h1 id=&#34;current-projects&#34;&gt;Current projects&lt;/h1&gt;
+&lt;p&gt;We usually have some projects &amp;ldquo;on stock&amp;rdquo;, which you find below. You will find that many of the suggested projects closely relate to either ongoing research projects or also our interest in a variety of new research areas.&lt;/p&gt;
+&lt;p&gt;Therefore, please also check out the &lt;a href=&#34;http://localhost:1313/research/&#34;&gt;Research&lt;/a&gt; section in case that you&amp;rsquo;re having an idea for a MSc/BSc thesis topic. Projects that address/relate to one of our current research directions will usually be prioritized (partly due to time and resource constraints, but also to ensure suitable supervision).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
