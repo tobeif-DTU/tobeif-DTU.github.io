@@ -1,6 +1,7 @@
 ---
 title: Supervision & Projects
 ShowToc: true
+tocopen: true
 draft: false
 tags:
   - research
