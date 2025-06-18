@@ -1,6 +1,7 @@
 ---
 title: Our Teaching
 ShowToc: true
+tocopen: true
 draft: false
 tags:
   - Courses
