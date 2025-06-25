@@ -1,11 +1,12 @@
 ---
-title: Supervision & Projects
+title: Projects
 ShowToc: true
 tocopen: true
 draft: false
 tags:
   - research
-  - MSc/BSc projects
+  - MSc/BSc
+  - projects
 ---
 
 #  Current projects
