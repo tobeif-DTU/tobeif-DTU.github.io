@@ -5,7 +5,8 @@ tocopen: true
 draft: false
 tags:
   - Courses
-  - Lifelong learning
+  - Lifelong
+  - learning
 ---
 ## Standard Courses
 #### 41603 Engineering Design & Problem solving (BSc)

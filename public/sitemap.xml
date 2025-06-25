@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/x/</loc>
+    <loc>http://localhost:1313/tags/courses/</loc>
+    <lastmod>2025-06-10T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/just-a-test/</loc>
+    <lastmod>2025-06-10T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/learning/</loc>
+    <lastmod>2025-06-10T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lifelong/</loc>
+    <lastmod>2025-06-10T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-10T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-10T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-10T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/a-fantastic-re-use-application/</loc>
+    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/courses/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/lifelong-learning/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/msc/bsc-projects/</loc>
   </url><url>
@@ -21,9 +39,5 @@
     <loc>http://localhost:1313/tags/research/</loc>
   </url><url>
     <loc>http://localhost:1313/supervision/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
   </url>
 </urlset>

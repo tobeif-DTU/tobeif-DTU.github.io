@@ -11,13 +11,35 @@
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jun 2025 04:14:54 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/x/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/x/</guid>
-      <description>&lt;h1 id=&#34;you-wish--&#34;&gt;You wish :-)&lt;/h1&gt;</description>
+      <title>Just a test</title>
+      <link>http://localhost:1313/posts/just-a-test/</link>
+      <pubDate>Tue, 10 Jun 2025 04:14:54 -0800</pubDate>
+      <guid>http://localhost:1313/posts/just-a-test/</guid>
+      <description>&lt;p&gt;asdasd
+asdfas&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/tobeif.jpg&#34; width=&#34;400&#34;/&gt; &lt;figcaption&gt;
+            title of image
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;![Bild][/images/tobeif.jpg]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A fantastic Re-Use application</title>
+      <link>http://localhost:1313/posts/a-fantastic-re-use-application/</link>
+      <pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate>
+      <guid>http://localhost:1313/posts/a-fantastic-re-use-application/</guid>
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/tobeif.jpg&#34; width=&#34;400&#34;/&gt; &lt;figcaption&gt;
+            title of image
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;![Bild][/images/tobeif.jpg]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our Research</title>

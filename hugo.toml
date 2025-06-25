@@ -66,7 +66,7 @@ images = [ "dimages/papermo-cover.png" ]
     url = "tags"
 
   [params.homeInfoParams]
-enabled = true  
+  enabled = true  
   Title = "Tobias Eifler"
   Content = """
 👋 Welcome to our small page that is summarising a bit of the stuff that we do in my small research group at DTU (Technical University of Denmark). I am Associate Professor in Engineering Design and Manufacturing Systems at the Department of Civil & Mechanical Engineering (DTU Construct) with an interest in all questions of product realisation, design uncertainty and variation consideration during product development and production. Accordingly my main research interests are methods, algorithms and other design tools that help exploring the design and configuration space. 
@@ -74,8 +74,6 @@ enabled = true
 """
 
 # I specifically interested how product development and product realisation can benefit our lives, help us to navigate transformachieve  and assist us in better doing the things we care about.demo page of Hugo's theme PaperMod!
-
-
 
 
 

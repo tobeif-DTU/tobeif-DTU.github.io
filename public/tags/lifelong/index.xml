@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Courses on tobeif-DTU</title>
-    <link>http://localhost:1313/tags/courses/</link>
-    <description>Recent content in Courses on tobeif-DTU</description>
+    <title>Lifelong on tobeif-DTU</title>
+    <link>http://localhost:1313/tags/lifelong/</link>
+    <description>Recent content in Lifelong on tobeif-DTU</description>
     <image>
       <title>tobeif-DTU</title>
       <url>http://localhost:1313/dimages/papermo-cover.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jun 2025 04:14:54 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/lifelong/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Just a test</title>
       <link>http://localhost:1313/posts/just-a-test/</link>
