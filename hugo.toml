@@ -26,9 +26,9 @@ theme = "PaperMod"
     weight = 3
 
   [[menu.main]]
-    identifier = "Supervision"
-    name = "Supervision"
-    url = "/Supervision"
+    identifier = "Projects"
+    name = "Projects"
+    url = "/Projects"
     weight = 3
 
 
