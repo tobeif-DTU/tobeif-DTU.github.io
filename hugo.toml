@@ -37,19 +37,22 @@ theme = "PaperMod"
 [params]
 # env = "production"
 # description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-# author = "Theme PaperMod"
+
+# author = "Tobias Eifler"
+# ShowBreadCrumbs = true
+
 # defaultTheme = "auto"
 # ShowShareButtons = true
 # ShowReadingTime = true
 # displayFullLangName = true
-ShowPostNavLinks = true
-ShowBreadCrumbs = true
-ShowCodeCopyButtons = true
-ShowRssButtonInSectionTermList = true
-ShowAllPagesInArchive = true
-ShowPageNums = true
-ShowToc = true
-images = [ "dimages/papermo-cover.png" ]
+# ShowPostNavLinks = true
+
+  ShowCodeCopyButtons = true
+# ShowRssButtonInSectionTermList = true
+# ShowAllPagesInArchive = true
+ ShowPageNums = true
+# ShowToc = true
+ images = [ "images/tobeif.png" ]
 
   [params.profileMode]
   enabled = false

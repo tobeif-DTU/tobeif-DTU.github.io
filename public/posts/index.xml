@@ -6,27 +6,29 @@
     <description>Recent content in Posts on tobeif-DTU</description>
     <image>
       <title>tobeif-DTU</title>
-      <url>http://localhost:1313/dimages/papermo-cover.png</url>
-      <link>http://localhost:1313/dimages/papermo-cover.png</link>
+      <url>http://localhost:1313/images/tobeif.png</url>
+      <link>http://localhost:1313/images/tobeif.png</link>
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Feb 2024 04:14:54 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A fantastic Re-Use application</title>
       <link>http://localhost:1313/posts/a-fantastic-re-use-application/</link>
-      <pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/a-fantastic-re-use-application/</guid>
-      <description>&lt;p&gt;Sustainability is not just about preserving the future,” says Ulrich Norbisrath, Associate Professor of Software Engineering at the University of Tartu. “It’s about reimagining the present, where yesterday’s devices become tomorrow’s opportunities.”&lt;/p&gt;
-&lt;p&gt;Innovation often begins not with something new, but with a new way of thinking about the old, re-imagining its role in shaping the future&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/tobeif.jpg&#34; width=&#34;400&#34;/&gt; &lt;figcaption&gt;
-            title of image
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;![Bild][/images/tobeif.jpg]&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Sustainability is not only about preserving the future. It’s about reimagining the present, where yesterday’s devices become tomorrow’s opportunities.”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Innovation often begins not with something new, but with a new way of thinking about the old, re-imagining its role in shaping the future&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;And while avoiding new waste recirculating old products is key, corresponding thoughts might be quite inspirational for actually rethinking how we treat electronic waste in our society. In this context the university of Tartu has repurposed old phones to build small data centers, outperfoming more (&lt;a href=&#34;https://spectrum.ieee.org/smartphone-data-centers&#34;&gt;Link here&lt;/a&gt;))&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Configuration Design</title>
+      <link>http://localhost:1313/posts/decathlon-project/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/decathlon-project/</guid>
+      <description>&lt;p&gt;We just finished a wonderful example of configuration design, i.e., that rethinking different configurations is key for actually achieving a good product.&lt;/p&gt;
+&lt;p&gt;In collaboration with DEcathlon in France, our student worked with rethinking car rooftop tents. Very nice product and fantastic educational example to ask the question what we actually achieve with simple optimisation. How we make sure that we derive good configurations for our products&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

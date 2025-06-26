@@ -3,25 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/a-fantastic-re-use-application/</loc>
-    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/courses/</loc>
-    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/learning/</loc>
-    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/lifelong/</loc>
-    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-02-02T04:14:54-08:00</lastmod>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/decathlon-project/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/education/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/projects/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/supervision/</loc>
   </url><url>
@@ -34,8 +43,6 @@
     <loc>http://localhost:1313/courses/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/projects/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/publications/</loc>
   </url><url>
