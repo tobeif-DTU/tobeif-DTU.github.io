@@ -11,34 +11,41 @@
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 04:14:54 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 04:14:54 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Courses</title>
       <link>http://localhost:1313/tags/courses/</link>
-      <pubDate>Tue, 10 Jun 2025 04:14:54 -0800</pubDate>
+      <pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate>
       <guid>http://localhost:1313/tags/courses/</guid>
       <description></description>
     </item>
     <item>
       <title>Learning</title>
       <link>http://localhost:1313/tags/learning/</link>
-      <pubDate>Tue, 10 Jun 2025 04:14:54 -0800</pubDate>
+      <pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate>
       <guid>http://localhost:1313/tags/learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Lifelong</title>
       <link>http://localhost:1313/tags/lifelong/</link>
-      <pubDate>Tue, 10 Jun 2025 04:14:54 -0800</pubDate>
+      <pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate>
       <guid>http://localhost:1313/tags/lifelong/</guid>
       <description></description>
     </item>
     <item>
-      <title>MSc/BSc Projects</title>
-      <link>http://localhost:1313/tags/msc/bsc-projects/</link>
+      <title>MSc/BSc</title>
+      <link>http://localhost:1313/tags/msc/bsc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/msc/bsc-projects/</guid>
+      <guid>http://localhost:1313/tags/msc/bsc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/tags/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/projects/</guid>
       <description></description>
     </item>
     <item>

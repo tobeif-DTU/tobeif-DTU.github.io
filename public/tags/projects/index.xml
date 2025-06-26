@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on tobeif-DTU</title>
+    <link>http://localhost:1313/tags/projects/</link>
+    <description>Recent content in Projects on tobeif-DTU</description>
+    <image>
+      <title>tobeif-DTU</title>
+      <url>http://localhost:1313/dimages/papermo-cover.png</url>
+      <link>http://localhost:1313/dimages/papermo-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h1 id=&#34;current-projects&#34;&gt;Current projects&lt;/h1&gt;
+&lt;p&gt;We usually have some projects &amp;ldquo;on stock&amp;rdquo;, which you find below. You will find that many of the suggested projects closely relate to either ongoing research projects or also our interest in a variety of new research areas.&lt;/p&gt;
+&lt;p&gt;Therefore, please also check out the &lt;a href=&#34;http://localhost:1313/research/&#34;&gt;Research&lt;/a&gt; section in case that you&amp;rsquo;re having an idea for a MSc/BSc thesis topic. Projects that address/relate to one of our current research directions will usually be prioritized (partly due to time and resource constraints, but also to ensure suitable supervision).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -11,29 +11,16 @@
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 04:14:54 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 04:14:54 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/lifelong/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Just a test</title>
-      <link>http://localhost:1313/posts/just-a-test/</link>
-      <pubDate>Tue, 10 Jun 2025 04:14:54 -0800</pubDate>
-      <guid>http://localhost:1313/posts/just-a-test/</guid>
-      <description>&lt;p&gt;asdasd
-asdfas&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/tobeif.jpg&#34; width=&#34;400&#34;/&gt; &lt;figcaption&gt;
-            title of image
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;![Bild][/images/tobeif.jpg]&lt;/p&gt;</description>
-    </item>
     <item>
       <title>A fantastic Re-Use application</title>
       <link>http://localhost:1313/posts/a-fantastic-re-use-application/</link>
       <pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate>
       <guid>http://localhost:1313/posts/a-fantastic-re-use-application/</guid>
-      <description>&lt;figure&gt;
+      <description>&lt;p&gt;Sustainability is not just about preserving the future,” says Ulrich Norbisrath, Associate Professor of Software Engineering at the University of Tartu. “It’s about reimagining the present, where yesterday’s devices become tomorrow’s opportunities.”&lt;/p&gt;
+&lt;p&gt;Innovation often begins not with something new, but with a new way of thinking about the old, re-imagining its role in shaping the future&lt;/p&gt;
+&lt;figure&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/tobeif.jpg&#34; width=&#34;400&#34;/&gt; &lt;figcaption&gt;
             title of image
         &lt;/figcaption&gt;

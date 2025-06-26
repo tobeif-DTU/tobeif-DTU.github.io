@@ -1,8 +1,7 @@
 
----
 ## Preparing for a Thesis
 
-It’s fine to come and ask for a thesis subject. I usually have several research ideas “on stock” that are be suitable for a thesis topic. You may also have an idea yourself, but as mentioned above, I would need to give preference to topics that are releated to our ongoing research.
+It’s fine to come and ask for a thesis subject. I usually have several research ideas “on stock” that are be suitable for a thesis topic. You may also have an idea yourself, but as mentioned above, I would need to give preference to topics that are related to our ongoing research.
 
 Whether you want to discuss your own idea, or we have discussed a topic suitable for your thesis, the next step is preparing a short description of this idea. It is important that you, as a student, write this text, to reduce the risk of mis-communication.
 
@@ -82,5 +81,4 @@ It is a good idea if you prepare by bringing and presenting your “results”, 
 
 
 
-And please also have a look at [Supervision Process]({{< relref path=SupervisionProcess.md >}}) Supervision Process
 
