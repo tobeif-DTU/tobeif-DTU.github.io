@@ -1,8 +1,7 @@
-baseurl = "https://example.org/"  # please update this to your actual URL
+baseurl = "https://tobeif-dtu.github.io/"  # please update this to your actual URL
 languageCode = "en-us"
 title = "tobeif-DTU"
 theme = "PaperMod"
-
 
 
 [menu]
@@ -32,12 +31,14 @@ theme = "PaperMod"
     weight = 3
 
 
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
-# env = "production"
+# env = "production" # to enable google analytics, opengraph, twitter-cards and schema
 # description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-
 # author = "Tobias Eifler"
 # ShowBreadCrumbs = true
 
@@ -72,7 +73,10 @@ theme = "PaperMod"
   enabled = true  
   Title = "Tobias Eifler"
   Content = """
-👋 Welcome to our small page that is summarising a bit of the stuff that we do in my small research group at DTU (Technical University of Denmark). I am Associate Professor in Engineering Design and Manufacturing Systems at the Department of Civil & Mechanical Engineering (DTU Construct) with an interest in all questions of product realisation, design uncertainty and variation consideration during product development and production. Accordingly my main research interests are methods, algorithms and other design tools that help exploring the design and configuration space. 
+👋 Welcome to our small page that is summarising a bit of the stuff that we do in our small research group at DTU (Technical University of Denmark). I am Associate Professor in Engineering Design and Manufacturing Systems at the Department of Civil & Mechanical Engineering (DTU Construct) with an interest in all questions of product realisation, design uncertainty and variation consideration during product development and production. Accordingly my main research interests are methods, algorithms and other design tools that help exploring the design and configuration space.
+    
+   
+If you find something interesting on the following pages, if you have ideas, feedback, criticism, or if you just want to get in contact, please shoot us an email at tobeif@dtu.dk!  
 
 """
 
@@ -97,5 +101,7 @@ theme = "PaperMod"
 
   [params.assets]
   disableHLJS = true
+
+
 
 

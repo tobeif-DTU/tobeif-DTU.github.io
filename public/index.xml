@@ -14,21 +14,24 @@
     <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A fantastic Re-Use application</title>
-      <link>http://localhost:1313/posts/a-fantastic-re-use-application/</link>
+      <title>Configuration design</title>
+      <link>http://localhost:1313/posts/decathlon/</link>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-fantastic-re-use-application/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Sustainability is not only about preserving the future. It’s about reimagining the present, where yesterday’s devices become tomorrow’s opportunities.”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Innovation often begins not with something new, but with a new way of thinking about the old, re-imagining its role in shaping the future&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;And while avoiding new waste recirculating old products is key, corresponding thoughts might be quite inspirational for actually rethinking how we treat electronic waste in our society. In this context the university of Tartu has repurposed old phones to build small data centers, outperfoming more (&lt;a href=&#34;https://spectrum.ieee.org/smartphone-data-centers&#34;&gt;Link here&lt;/a&gt;))&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/decathlon/</guid>
+      <description>&lt;p&gt;Last week, our student Penelope successfully defended her MSc thesis presenting a wonderful example of a configuration design task, i.e., the task of rethinking/exploring the space of mechanical configurations based on design trade-off knowledge.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/posts/penelope-peny_last-week-i-successfully-defended-my-activity-7345429401687257089-rV_y?utm_source=social_share_send&amp;utm_medium=member_desktop_web&amp;rcm=ACoAAAqJ0jYBqRq0zyFqI-ACglUxbOY6HN5Io9M&#34;&gt;&lt;img src=&#34;https://media.licdn.com/dms/image/v2/D4E22AQGw83KNxV4sSQ/feedshare-shrink_800/B4EZfA1FruHIAw-/0/1751286837745?e=1753920000&amp;v=beta&amp;t=dlL0dlPghFGF6ZMPBqN_UsynmA3JttxJOS6FlO24vdI&#34;  alt=&#34;alt&#34; width=&#34;500&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;font-size:12px; &#34;&gt;&lt;a href=&#34;https://www.decathlon.com/&#34;&gt;Quechua MH 500 Rooftop Tent  &lt;/a&gt; on a picture from the MSc thesis&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; In close collaboration with &lt;a href=&#34;https://www.decathlon.com&#34;&gt;Decathlon&lt;/a&gt;, Penelope applied this idea of configuration design on car rooftop tents providing valuable input to the design team and sparking new project ideas for potential future solutions. A very cool product and a fantastic case example to ask the question what we can actually achieve based o a systematic understanding of active constraints and trade-offs between the various design objectives (instead of simple design heuristics / best-practices).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Configuration Design</title>
-      <link>http://localhost:1313/posts/decathlon-project/</link>
-      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/decathlon-project/</guid>
-      <description>&lt;p&gt;We just finished a wonderful example of configuration design, i.e., that rethinking different configurations is key for actually achieving a good product.&lt;/p&gt;
-&lt;p&gt;In collaboration with DEcathlon in France, our student worked with rethinking car rooftop tents. Very nice product and fantastic educational example to ask the question what we actually achieve with simple optimisation. How we make sure that we derive good configurations for our products&lt;/p&gt;</description>
+      <title>Fantastic work on repurposing electronic waste, but ... </title>
+      <link>http://localhost:1313/posts/re-use/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/re-use/</guid>
+      <description>&lt;p&gt;Estonian researchers have repurposed 15-year-old smartphones as tiny underwater data centers, outperforming popular IoT-specific devices such as the Rasperry Pi (&lt;a href=&#34;https://spectrum.ieee.org/smartphone-data-centers&#34;&gt;Link here&lt;/a&gt;). Without doubt a really nice and innovative idea for addressing and highlighting the electronic waste problem! However, one of the main aspects gets easily lost in a lot of media coverage!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://spectrum.ieee.org/smartphone-data-centers&#34;&gt;&lt;img src=&#34;https://spectrum.ieee.org/media-library/hands-adjusting-multiple-smartphones-on-a-charging-station.jpg?id=61090419&amp;width=2400&amp;height=1500&#34;  alt=&#34;HTML tutorial&#34; width=&#34;500&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;font-size:12px; &#34;&gt;does that work &lt;a href=&#34;https://www.mozilla.org/en-US/&#34;&gt;the Mozilla homepage&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is the crux?&lt;/strong&gt; The research team needed to use an old line of phones, discontinued in 2016, as almost all manufacturers systematically reduced modularity of their models, moved towards increasingly proprietary software, and implemented manufacturing approaches that make it impossible to remove/replace/repair components.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -45,31 +48,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
       <description>&lt;h2 id=&#34;research-in-advanced-engineering-design&#34;&gt;Research in Advanced Engineering Design&lt;/h2&gt;
-&lt;p&gt;The objective of my research is to widen the applicability of detailed engineering and optimization knowledge in earlier design stages to allow for better informed (design) decision making when conceptualizing and developing robust physical assemblies. Fundamental to this work is the exploration of new product configurations based on the developed theory of design trade-offs, i.e., contradicting requirements or constraints that drastically limit the attainable design space and often result in a reduced window for allowable variation. This idea interfaces well with approaches in the field of material design for energy systems, development of pharmaceutical manufacturing equipment, and digital twin approaches (areas that are explored in an interdisciplinary approach at DTU / see also list of research collaborations). Lastly, my ambition is to keep this research industrially relevant throughout continuous industrial collaboration and to systematically incorporate it into undergraduate and post graduate education, in order to enable students, PhDs, and design practitioners to solve the today’s challenges and to shape engineering design practices for the future.&lt;/p&gt;</description>
+&lt;p&gt;The objective of my research is to widen the applicability of detailed engineering and optimization knowledge in earlier design stages to allow for better informed (design) decision making when conceptualizing and developing robust physical assemblies. This includes three main thrusts, all related to the questions of variation in engineering and development. While our background is the fundamental idea of Robust Design, Kinematic design heuristics, and tolerancing knowledge, we have gradually developed this direction towards a comprehensive toolbox for design automation and design exploration. Lastly, variation is only increasing when looking into circular products and the question of several lifecycles.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our Teaching</title>
       <link>http://localhost:1313/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/courses/</guid>
-      <description>&lt;h2 id=&#34;standard-courses&#34;&gt;Standard Courses&lt;/h2&gt;
-&lt;h4 id=&#34;41603-engineering-design--problem-solving-bsc&#34;&gt;41603 Engineering Design &amp;amp; Problem solving (BSc)&lt;/h4&gt;
-&lt;h4 id=&#34;4102829-design-of-mechatronic-systems-bsc&#34;&gt;41028/29 Design of mechatronic systems (BSc)&lt;/h4&gt;
-&lt;h4 id=&#34;41635-robust-design-of-products--mechanisms-msc&#34;&gt;41635 Robust Design of products &amp;amp; mechanisms (MSc)&lt;/h4&gt;
-&lt;h2 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h2&gt;
-&lt;h4 id=&#34;ingeniørarbejde&#34;&gt;Ingeniørarbejde&lt;/h4&gt;
-&lt;h4 id=&#34;systems-engineering-101&#34;&gt;Systems Engineering 101&lt;/h4&gt;
-&lt;h2 id=&#34;special-courses&#34;&gt;Special Courses&lt;/h2&gt;
+      <description>&lt;h3 id=&#34;standard-courses&#34;&gt;Standard Courses&lt;/h3&gt;
+&lt;p&gt;Standard courses we teach are:&lt;/p&gt;
+&lt;h5 id=&#34;41603-engineering-design--problem-solving-bsc&#34;&gt;41603 Engineering Design &amp;amp; Problem solving (BSc)&lt;/h5&gt;
+&lt;h5 id=&#34;4102829-design-of-mechatronic-systems-bsc&#34;&gt;41028/29 Design of mechatronic systems (BSc)&lt;/h5&gt;
+&lt;h5 id=&#34;41635-robust-design-of-products--mechanisms-msc&#34;&gt;41635 Robust Design of products &amp;amp; mechanisms (MSc)&lt;/h5&gt;
+&lt;h3 id=&#34;special-courses&#34;&gt;Special Courses&lt;/h3&gt;
+&lt;p&gt;We further have some re-occurring topics we offer in Special Course format. If Interested please reach out!&lt;/p&gt;
 &lt;h4 id=&#34;computational-experimentation&#34;&gt;Computational Experimentation&lt;/h4&gt;
 &lt;h4 id=&#34;geometric-product-specification&#34;&gt;Geometric Product Specification&lt;/h4&gt;
-&lt;h4 id=&#34;multi-objective-design-optimisation&#34;&gt;Multi-Objective Design Optimisation&lt;/h4&gt;</description>
+&lt;h4 id=&#34;multi-objective-design-optimisation&#34;&gt;Multi-Objective Design Optimisation&lt;/h4&gt;
+&lt;h3 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h3&gt;
+&lt;p&gt;Just for the sake of completeness you also meet us in:&lt;/p&gt;
+&lt;h4 id=&#34;ingeniørarbejde&#34;&gt;Ingeniørarbejde&lt;/h4&gt;
+&lt;h4 id=&#34;systems-engineering-101&#34;&gt;Systems Engineering 101&lt;/h4&gt;</description>
     </item>
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h1 id=&#34;current-projects&#34;&gt;Current projects&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;project-scoping&#34;&gt;Project Scoping&lt;/h2&gt;
 &lt;p&gt;We usually have some projects &amp;ldquo;on stock&amp;rdquo;, which you find below. You will find that many of the suggested projects closely relate to either ongoing research projects or also our interest in a variety of new research areas.&lt;/p&gt;
 &lt;p&gt;Therefore, please also check out the &lt;a href=&#34;http://localhost:1313/research/&#34;&gt;Research&lt;/a&gt; section in case that you&amp;rsquo;re having an idea for a MSc/BSc thesis topic. Projects that address/relate to one of our current research directions will usually be prioritized (partly due to time and resource constraints, but also to ensure suitable supervision).&lt;/p&gt;</description>
     </item>

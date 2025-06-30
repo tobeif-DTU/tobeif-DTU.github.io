@@ -11,33 +11,26 @@
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/lifelong/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A fantastic Re-Use application</title>
-      <link>http://localhost:1313/posts/a-fantastic-re-use-application/</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-fantastic-re-use-application/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Sustainability is not only about preserving the future. It’s about reimagining the present, where yesterday’s devices become tomorrow’s opportunities.”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Innovation often begins not with something new, but with a new way of thinking about the old, re-imagining its role in shaping the future&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;And while avoiding new waste recirculating old products is key, corresponding thoughts might be quite inspirational for actually rethinking how we treat electronic waste in our society. In this context the university of Tartu has repurposed old phones to build small data centers, outperfoming more (&lt;a href=&#34;https://spectrum.ieee.org/smartphone-data-centers&#34;&gt;Link here&lt;/a&gt;))&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Our Teaching</title>
       <link>http://localhost:1313/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/courses/</guid>
-      <description>&lt;h2 id=&#34;standard-courses&#34;&gt;Standard Courses&lt;/h2&gt;
-&lt;h4 id=&#34;41603-engineering-design--problem-solving-bsc&#34;&gt;41603 Engineering Design &amp;amp; Problem solving (BSc)&lt;/h4&gt;
-&lt;h4 id=&#34;4102829-design-of-mechatronic-systems-bsc&#34;&gt;41028/29 Design of mechatronic systems (BSc)&lt;/h4&gt;
-&lt;h4 id=&#34;41635-robust-design-of-products--mechanisms-msc&#34;&gt;41635 Robust Design of products &amp;amp; mechanisms (MSc)&lt;/h4&gt;
-&lt;h2 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h2&gt;
-&lt;h4 id=&#34;ingeniørarbejde&#34;&gt;Ingeniørarbejde&lt;/h4&gt;
-&lt;h4 id=&#34;systems-engineering-101&#34;&gt;Systems Engineering 101&lt;/h4&gt;
-&lt;h2 id=&#34;special-courses&#34;&gt;Special Courses&lt;/h2&gt;
+      <description>&lt;h3 id=&#34;standard-courses&#34;&gt;Standard Courses&lt;/h3&gt;
+&lt;p&gt;Standard courses we teach are:&lt;/p&gt;
+&lt;h5 id=&#34;41603-engineering-design--problem-solving-bsc&#34;&gt;41603 Engineering Design &amp;amp; Problem solving (BSc)&lt;/h5&gt;
+&lt;h5 id=&#34;4102829-design-of-mechatronic-systems-bsc&#34;&gt;41028/29 Design of mechatronic systems (BSc)&lt;/h5&gt;
+&lt;h5 id=&#34;41635-robust-design-of-products--mechanisms-msc&#34;&gt;41635 Robust Design of products &amp;amp; mechanisms (MSc)&lt;/h5&gt;
+&lt;h3 id=&#34;special-courses&#34;&gt;Special Courses&lt;/h3&gt;
+&lt;p&gt;We further have some re-occurring topics we offer in Special Course format. If Interested please reach out!&lt;/p&gt;
 &lt;h4 id=&#34;computational-experimentation&#34;&gt;Computational Experimentation&lt;/h4&gt;
 &lt;h4 id=&#34;geometric-product-specification&#34;&gt;Geometric Product Specification&lt;/h4&gt;
-&lt;h4 id=&#34;multi-objective-design-optimisation&#34;&gt;Multi-Objective Design Optimisation&lt;/h4&gt;</description>
+&lt;h4 id=&#34;multi-objective-design-optimisation&#34;&gt;Multi-Objective Design Optimisation&lt;/h4&gt;
+&lt;h3 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h3&gt;
+&lt;p&gt;Just for the sake of completeness you also meet us in:&lt;/p&gt;
+&lt;h4 id=&#34;ingeniørarbejde&#34;&gt;Ingeniørarbejde&lt;/h4&gt;
+&lt;h4 id=&#34;systems-engineering-101&#34;&gt;Systems Engineering 101&lt;/h4&gt;</description>
     </item>
   </channel>
 </rss>

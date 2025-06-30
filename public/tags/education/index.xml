@@ -11,15 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Configuration Design</title>
-      <link>http://localhost:1313/posts/decathlon-project/</link>
-      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/decathlon-project/</guid>
-      <description>&lt;p&gt;We just finished a wonderful example of configuration design, i.e., that rethinking different configurations is key for actually achieving a good product.&lt;/p&gt;
-&lt;p&gt;In collaboration with DEcathlon in France, our student worked with rethinking car rooftop tents. Very nice product and fantastic educational example to ask the question what we actually achieve with simple optimisation. How we make sure that we derive good configurations for our products&lt;/p&gt;</description>
+      <title>DTU@Roskilde</title>
+      <link>http://localhost:1313/posts/roskilde/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/roskilde/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re going to wonderful Roskilde this week, make sure to visit the DTU and find your TWIN.&lt;/p&gt;
+&lt;p&gt;What you will find (among other things) is a sample of projects from our 41029 Design of Mechatronics&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
