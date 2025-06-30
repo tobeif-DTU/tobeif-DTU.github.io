@@ -11,7 +11,18 @@
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/msc/bsc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuration design</title>
+      <link>http://localhost:1313/posts/decathlon/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/decathlon/</guid>
+      <description>&lt;p&gt;Last week, our student Penelope successfully defended her MSc thesis presenting a wonderful example of a configuration design task, i.e., the task of rethinking/exploring the space of mechanical configurations based on design trade-off knowledge.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/posts/penelope-peny_last-week-i-successfully-defended-my-activity-7345429401687257089-rV_y?utm_source=social_share_send&amp;utm_medium=member_desktop_web&amp;rcm=ACoAAAqJ0jYBqRq0zyFqI-ACglUxbOY6HN5Io9M&#34;&gt;&lt;img src=&#34;https://media.licdn.com/dms/image/v2/D4E22AQGw83KNxV4sSQ/feedshare-shrink_800/B4EZfA1FruHIAw-/0/1751286837745?e=1753920000&amp;v=beta&amp;t=dlL0dlPghFGF6ZMPBqN_UsynmA3JttxJOS6FlO24vdI&#34;  alt=&#34;alt&#34; width=&#34;500&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;font-size:12px; &#34;&gt;&lt;a href=&#34;https://www.decathlon.com/&#34;&gt;Quechua MH 500 Rooftop Tent  &lt;/a&gt; on a picture from the MSc thesis&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; In close collaboration with &lt;a href=&#34;https://www.decathlon.com&#34;&gt;Decathlon&lt;/a&gt;, Penelope applied this idea of configuration design on car rooftop tents providing valuable input to the design team and sparking new project ideas for potential future solutions. A very cool product and a fantastic case example to ask the question what we can actually achieve based o a systematic understanding of active constraints and trade-offs between the various design objectives (instead of simple design heuristics / best-practices).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
