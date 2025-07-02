@@ -18,10 +18,8 @@
       <link>http://localhost:1313/posts/re-use/</link>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/re-use/</guid>
-      <description>&lt;p&gt;Estonian researchers have repurposed 15-year-old smartphones as tiny underwater data centers, outperforming popular IoT-specific devices such as the Rasperry Pi (&lt;a href=&#34;https://spectrum.ieee.org/smartphone-data-centers&#34;&gt;Link here&lt;/a&gt;). Without doubt a really nice and innovative idea for addressing and highlighting the electronic waste problem! However, one of the main aspects gets easily lost in a lot of media coverage!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://spectrum.ieee.org/smartphone-data-centers&#34;&gt;&lt;img src=&#34;https://spectrum.ieee.org/media-library/hands-adjusting-multiple-smartphones-on-a-charging-station.jpg?id=61090419&amp;width=2400&amp;height=1500&#34;  alt=&#34;HTML tutorial&#34; width=&#34;500&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&#34;font-size:12px; &#34;&gt;does that work &lt;a href=&#34;https://www.mozilla.org/en-US/&#34;&gt;the Mozilla homepage&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What is the crux?&lt;/strong&gt; The research team needed to use an old line of phones, discontinued in 2016, as almost all manufacturers systematically reduced modularity of their models, moved towards increasingly proprietary software, and implemented manufacturing approaches that make it impossible to remove/replace/repair components.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Estonian researchers have repurposed 15-year-old smartphones as tiny underwater data centers, outperforming popular IoT-specific devices such as the Rasperry Pi (&lt;a href=&#34;https://spectrum.ieee.org/smartphone-data-centers&#34;&gt;Link here&lt;/a&gt;). Without doubt a really nice and innovative idea for addressing and highlighting the electronic waste problem!&lt;/p&gt;
+&lt;p&gt;However, one of the main aspects gets easily lost in a lot of media coverage! The research team needed to use an old line of phones, discontinued in 2016, as almost all manufacturers systematically reduced modularity of their models, moved towards increasingly proprietary software, and implemented manufacturing approaches that make it impossible to remove/replace/repair components.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
