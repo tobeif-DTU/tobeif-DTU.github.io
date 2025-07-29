@@ -34,12 +34,12 @@ Some of the current examples including Simulation, DoE & sampling, and surrogate
 If you're interested in playing around with image or 3D classification, LLMs, graphs, etc.:
 * **Vision Systems for real time tolerance monitoring** 
   either as part of Digital Twins or also in 100% inspection for circularity (see below)
-* interesting might also be **[Artificial Intelligence for (Material) Design & Discovery](https://www.kt.dtu.dk/research/prosys)https://kurser.dtu.dk/course/47341** 
+* interesting might also be **[Artificial Intelligence for (Material) Design & Discovery](https://kurser.dtu.dk/course/47341)** 
   project within the course were you'll be supervised by us and a colleague from the AI/ML field
 
 ### Innovation Projects
 * **Next Generation Climbing holds** 
-  if you're a climbing enthusiast who'd like to be part of an innovation story looking into a new concept of climbing holds based on the detailed analysis and optimisation of polymer microstructures **[Project description](https://www.kt.dtu.dk/research/prosys)https://kurser.dtu.dk/course/47341** .
+  if you're a climbing enthusiast who'd like to be part of an innovation story looking into a new concept of climbing holds based on the detailed analysis and optimisation of polymer microstructures **[Project description](href="/files/Sisu.pdf")**.
 
 ### Remanufactory projects
 We're part of DTU's new national center for Remanufacturing funded by [Industriensfond](https://industriensfond.dk/), see also  [Remanufactory](https://www.dtu.dk/english/news/all-news/new-national-centre-to-fill-crucial-gap-in-denmarks-remanufacturing-efforts?id=1399b494-c350-43eb-84f4-adfac314d997). In this context we can definitely use help from motivated students pushing DTU-research in the right direction :smiley: !
