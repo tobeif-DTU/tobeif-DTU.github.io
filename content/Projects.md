@@ -39,7 +39,7 @@ If you're interested in playing around with image or 3D classification, LLMs, gr
 
 ### Innovation Projects
 * **Next Generation Climbing holds** 
-  if you're a climbing enthusiast who'd like to be part of an innovation story looking into a new concept of climbing holds based on the detailed analysis and optimisation of polymer microstructures **[Project description](href="/files/Sisu.pdf")**.
+  if you're a climbing enthusiast who'd like to be part of an innovation story looking into a new concept of climbing holds based on the detailed analysis and optimisation of polymer microstructures **[Project description](/files/Sisu.pdf)**.
 
 ### Remanufactory projects
 We're part of DTU's new national center for Remanufacturing funded by [Industriensfond](https://industriensfond.dk/), see also  [Remanufactory](https://www.dtu.dk/english/news/all-news/new-national-centre-to-fill-crucial-gap-in-denmarks-remanufacturing-efforts?id=1399b494-c350-43eb-84f4-adfac314d997). In this context we can definitely use help from motivated students pushing DTU-research in the right direction :smiley: !
