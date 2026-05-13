@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Siemens Fonden supports DTU Remanufactory student</title>
+      <link>http://localhost:1313/posts/batch---disassembly/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/batch---disassembly/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Fantastic appreciation from Siemens Fonden&lt;/strong&gt; to one our &lt;a href=&#34;https://remanufactory.dtu.dk/&#34;&gt;Remanufactory&lt;/a&gt; BSc students. In his thesis, Mikkel has worked on an initial batch-disassembly prototype (incl. variant and feature recognition, tool changer, data extraction, etc.) to explore the technologies that will be at the heart of our rapid value recovery disassembly setup in our newly established Remanufactory lab. And we look more than forward to keeping Mikkel as part of that story as the grant will allow him to further develop his alpha prototype during his MSc studies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Look for your twin @Roskilde</title>
+      <link>http://localhost:1313/posts/remanufactory/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/remanufactory/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Look for your twin @Roskilde</title>
       <link>http://localhost:1313/posts/roskilde/</link>
@@ -42,6 +56,41 @@
     </item>
     <item>
       <title></title>
+      <link>http://localhost:1313/posts/design-exploration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/design-exploration/</guid>
+      <description>&lt;p&gt;What are the next steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;on the more applied side Remanufacturing (selective disassembly processes, embedded disassembly, Partially distructive disassembly planning, Geometry assurance, Virtual backbone)&lt;/li&gt;
+&lt;li&gt;on the digitalisation side: simulation-driven design, e.g., applied variation based simulation (incl. sampling and statistical modelling) &amp;amp; Digital thread in industry &amp;amp; MBSE, or also in its combination with data driven design as a Hybrid digital twin solution (Inverse modelling for non &amp;hellip; in processes and combination with active learning loops)- enabling also useful for the link to self-driving labs, Bioscience &amp;amp; medical production,&lt;br&gt;
+Last step is what we called Ideal Design / Trade-off based design&lt;/li&gt;
+&lt;li&gt;Reasons for work in this field
+&lt;ul&gt;
+&lt;li&gt;large gap between Design Methods &amp;amp; Detailed parametric representations&lt;/li&gt;
+&lt;li&gt;Role of Embodying a physical device / configuring different functionalitities is often unclear&lt;/li&gt;
+&lt;li&gt;addressing this Duality of Design (ambition of Top Down Design is clear, either supporting wide exploration of conceptual ideas and avoiding biases, or also supporting planning and organisation of design processes, incl. traceability in SE / at the same time, Design needs to be bottom up, i.e. considering detailed constraints)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Many design processes are co-design of elements and overall structure, in mechanics with numerous interdependecies &amp;amp; also changes to the conceptual solution
+&lt;ul&gt;
+&lt;li&gt;These design approaches have historically relied on intuition-based standard templates with a finite set of parameters&lt;/li&gt;
+&lt;li&gt;circuit design: co-design process essentially aims to tailor the electromagnetic structures and the active circuit topologies to optimize the collective response of the end-to-end circuit.&lt;/li&gt;
+&lt;li&gt;by choosing a template, we have already narrowed down the design and trade-off space.&lt;/li&gt;
+&lt;li&gt;quite possible that an entire design space that lies outside the scope of these regular template-based geometries can yield significant improvement over traditional solutions&lt;/li&gt;
+&lt;li&gt;for inverse design: The complex impedances of these devices, their ability to amplify, and theirmutual interactions need to be taken into account to realize an optimized endto-end design process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Other direction Computational Exploration (asking the question of well-structured)
+&lt;ul&gt;
+&lt;li&gt;Complete exploration of design spaces is often computationally prohibitive&lt;/li&gt;
+&lt;li&gt;The role of the designer therefore shifts from the generation of solutions to the definition of design problems and the evaluation of solutions with design options generated and scored computationally (Biskjaer, Dalsgaard &amp;amp; Halskov 2014).&lt;/li&gt;
+&lt;li&gt;engineers use design exploration (often referred to as meta-heuristics) and optimisation algorithms that intelligently navigate the problem space to find optimal solutions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>http://localhost:1313/supervision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/supervision/</guid>
@@ -63,7 +112,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/courses/</guid>
       <description>&lt;h3 id=&#34;standard-courses&#34;&gt;Standard Courses&lt;/h3&gt;
-&lt;p&gt;Standard courses we teach are:&lt;/p&gt;
+&lt;p&gt;Our standard courses are (in order of study year they are usually taken):&lt;/p&gt;
 &lt;h5 id=&#34;41603-engineering-design--problem-solving-bsc&#34;&gt;41603 Engineering Design &amp;amp; Problem solving (BSc)&lt;/h5&gt;
 &lt;h5 id=&#34;4102829-design-of-mechatronic-systems-bsc&#34;&gt;41028/29 Design of mechatronic systems (BSc)&lt;/h5&gt;
 &lt;h5 id=&#34;41635-robust-design-of-products--mechanisms-msc&#34;&gt;41635 Robust Design of products &amp;amp; mechanisms (MSc)&lt;/h5&gt;
@@ -73,9 +122,7 @@
 &lt;h4 id=&#34;geometric-product-specification&#34;&gt;Geometric Product Specification&lt;/h4&gt;
 &lt;h4 id=&#34;multi-objective-design-optimisation&#34;&gt;Multi-Objective Design Optimisation&lt;/h4&gt;
 &lt;h3 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h3&gt;
-&lt;p&gt;Just for the sake of completeness you also meet us in:&lt;/p&gt;
-&lt;h4 id=&#34;ingeniørarbejde&#34;&gt;Ingeniørarbejde&lt;/h4&gt;
-&lt;h4 id=&#34;systems-engineering-101&#34;&gt;Systems Engineering 101&lt;/h4&gt;</description>
+&lt;p&gt;Just for the sake of completeness you also meet us in:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>

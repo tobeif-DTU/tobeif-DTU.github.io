@@ -15,6 +15,13 @@
     <atom:link href="http://localhost:1313/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Look for your twin @Roskilde</title>
+      <link>http://localhost:1313/posts/remanufactory/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/remanufactory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Look for your twin @Roskilde</title>
       <link>http://localhost:1313/posts/roskilde/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/roskilde/</guid>

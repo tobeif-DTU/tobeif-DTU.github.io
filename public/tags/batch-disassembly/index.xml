@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Remanufactory on tobeif-DTU</title>
-    <link>http://localhost:1313/tags/remanufactory/</link>
-    <description>Recent content in Remanufactory on tobeif-DTU</description>
+    <title>Batch-Disassembly on tobeif-DTU</title>
+    <link>http://localhost:1313/tags/batch-disassembly/</link>
+    <description>Recent content in Batch-Disassembly on tobeif-DTU</description>
     <image>
       <title>tobeif-DTU</title>
       <url>http://localhost:1313/images/tobeif.png</url>
@@ -12,21 +12,13 @@
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/remanufactory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/batch-disassembly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Siemens Fonden supports DTU Remanufactory student</title>
       <link>http://localhost:1313/posts/batch---disassembly/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/batch---disassembly/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Fantastic appreciation from Siemens Fonden&lt;/strong&gt; to one our &lt;a href=&#34;https://remanufactory.dtu.dk/&#34;&gt;Remanufactory&lt;/a&gt; BSc students. In his thesis, Mikkel has worked on an initial batch-disassembly prototype (incl. variant and feature recognition, tool changer, data extraction, etc.) to explore the technologies that will be at the heart of our rapid value recovery disassembly setup in our newly established Remanufactory lab. And we look more than forward to keeping Mikkel as part of that story as the grant will allow him to further develop his alpha prototype during his MSc studies.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fantastic work on repurposing electronic waste, but ... </title>
-      <link>http://localhost:1313/posts/re-use/</link>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/re-use/</guid>
-      <description>&lt;p&gt;Estonian researchers have repurposed 15-year-old smartphones as tiny underwater data centers, outperforming popular IoT-specific devices such as the Rasperry Pi (&lt;a href=&#34;https://spectrum.ieee.org/smartphone-data-centers&#34;&gt;Link here&lt;/a&gt;). Without doubt a really nice and innovative idea for addressing and highlighting the electronic waste problem!&lt;/p&gt;
-&lt;p&gt;However, one of the main aspects gets easily lost in a lot of media coverage! The research team needed to use an old line of phones, discontinued in 2016, as almost all manufacturers systematically reduced modularity of their models, moved towards increasingly proprietary software, and implemented manufacturing approaches that make it impossible to remove/replace/repair components.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
