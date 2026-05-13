@@ -9,7 +9,7 @@ tags:
   - learning
 ---
 ### Standard Courses
-Standard courses we teach are:  
+Our standard courses are (in order of study year they are usually taken):  
 ##### 41603 Engineering Design & Problem solving (BSc)
 
 ##### 41028/29 Design of mechatronic systems (BSc)
