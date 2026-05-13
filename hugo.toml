@@ -56,7 +56,7 @@ enableEmoji = true
  images = [ "images/tobeif.png" ]
 
   [params.profileMode]
-  enabled = true
+  enabled = false
   title = "Tobias Eifler"
   imageUrl = "images/tobeif.png"
   imageTitle = "Tobias Eifler"
@@ -73,9 +73,18 @@ enableEmoji = true
     url = "tags"
 
   [params.homeInfoParams]
-  enabled = false
-  Title = "Tobias Eifler"
+  enabled = true
+  Title = ""
   Content = """
+<div style="display:flex; align-items:center; gap:1.5rem; margin-bottom:1.5rem;">
+  <img src="/images/tobeif.png" alt="Tobias Eifler" style="width:130px; height:130px; border-radius:50%; object-fit:cover; flex-shrink:0;">
+  <div>
+    <strong style="font-size:1.3rem;">Tobias Eifler</strong><br>
+    Associate Professor in Engineering Design and Manufacturing Systems<br>
+    <em>DTU Construct, Technical University of Denmark</em>
+  </div>
+</div>
+
 👋 Welcome to our small page that is summarising a bit of the stuff that we do in our small research group at DTU (Technical University of Denmark). I am Associate Professor in Engineering Design and Manufacturing Systems at the Department of Civil & Mechanical Engineering (DTU Construct) with an interest in all questions of product realisation, design uncertainty and variation consideration during product development and production.   
       
 If you find something interesting on the following pages, if you have ideas, feedback, criticism, or if you just want to get in contact, please shoot us an email at tobeif@dtu.dk!  
