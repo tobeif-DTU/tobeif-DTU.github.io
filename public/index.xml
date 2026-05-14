@@ -11,21 +11,22 @@
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Great Ideas, nowhere to live - on tool support on early design</title>
+      <link>http://localhost:1313/posts/modelliro_april/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/modelliro_april/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Long Shadow, Little Structure - the most influential part of design has the least tool support&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In theory, the progression of design processes appears straightforward: understand the problem, define the requirements, avoid fixation through creative exploration, select candidate solutions, and further detail the most promising one toward integration, testing, and production ramp-up. It seems like a clear progression from creative ideation to analytical realisation, with a &lt;strong&gt;far-reaching impact (a long shadow) of initial ideas&lt;/strong&gt; on a product&amp;rsquo;s long-term value, usability, and market success. In practice, however, numerous critical pitfalls emerge, many of them widely discussed - such as premature fixation and excessive iterations, lack of cross-functional communication, insufficient reuse, etc. - yet many of them still insufficiently addressed in industrial settings.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Siemens Fonden supports DTU Remanufactory student</title>
       <link>http://localhost:1313/posts/batch---disassembly/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/batch---disassembly/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Fantastic appreciation from Siemens Fonden&lt;/strong&gt; to one our &lt;a href=&#34;https://remanufactory.dtu.dk/&#34;&gt;Remanufactory&lt;/a&gt; BSc students. In his thesis, Mikkel has worked on an initial batch-disassembly prototype (incl. variant and feature recognition, tool changer, data extraction, etc.) to explore the technologies that will be at the heart of our rapid value recovery disassembly setup in our newly established Remanufactory lab. And we look more than forward to keeping Mikkel as part of that story as the grant will allow him to further develop his alpha prototype during his MSc studies.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Look for your twin @Roskilde</title>
-      <link>http://localhost:1313/posts/remanufactory/</link>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/remanufactory/</guid>
-      <description></description>
     </item>
     <item>
       <title>Look for your twin @Roskilde</title>
@@ -56,47 +57,21 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/design-exploration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/design-exploration/</guid>
-      <description>&lt;p&gt;What are the next steps:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;on the more applied side Remanufacturing (selective disassembly processes, embedded disassembly, Partially distructive disassembly planning, Geometry assurance, Virtual backbone)&lt;/li&gt;
-&lt;li&gt;on the digitalisation side: simulation-driven design, e.g., applied variation based simulation (incl. sampling and statistical modelling) &amp;amp; Digital thread in industry &amp;amp; MBSE, or also in its combination with data driven design as a Hybrid digital twin solution (Inverse modelling for non &amp;hellip; in processes and combination with active learning loops)- enabling also useful for the link to self-driving labs, Bioscience &amp;amp; medical production,&lt;br&gt;
-Last step is what we called Ideal Design / Trade-off based design&lt;/li&gt;
-&lt;li&gt;Reasons for work in this field
-&lt;ul&gt;
-&lt;li&gt;large gap between Design Methods &amp;amp; Detailed parametric representations&lt;/li&gt;
-&lt;li&gt;Role of Embodying a physical device / configuring different functionalitities is often unclear&lt;/li&gt;
-&lt;li&gt;addressing this Duality of Design (ambition of Top Down Design is clear, either supporting wide exploration of conceptual ideas and avoiding biases, or also supporting planning and organisation of design processes, incl. traceability in SE / at the same time, Design needs to be bottom up, i.e. considering detailed constraints)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Many design processes are co-design of elements and overall structure, in mechanics with numerous interdependecies &amp;amp; also changes to the conceptual solution
-&lt;ul&gt;
-&lt;li&gt;These design approaches have historically relied on intuition-based standard templates with a finite set of parameters&lt;/li&gt;
-&lt;li&gt;circuit design: co-design process essentially aims to tailor the electromagnetic structures and the active circuit topologies to optimize the collective response of the end-to-end circuit.&lt;/li&gt;
-&lt;li&gt;by choosing a template, we have already narrowed down the design and trade-off space.&lt;/li&gt;
-&lt;li&gt;quite possible that an entire design space that lies outside the scope of these regular template-based geometries can yield significant improvement over traditional solutions&lt;/li&gt;
-&lt;li&gt;for inverse design: The complex impedances of these devices, their ability to amplify, and theirmutual interactions need to be taken into account to realize an optimized endto-end design process.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Other direction Computational Exploration (asking the question of well-structured)
-&lt;ul&gt;
-&lt;li&gt;Complete exploration of design spaces is often computationally prohibitive&lt;/li&gt;
-&lt;li&gt;The role of the designer therefore shifts from the generation of solutions to the definition of design problems and the evaluation of solutions with design options generated and scored computationally (Biskjaer, Dalsgaard &amp;amp; Halskov 2014).&lt;/li&gt;
-&lt;li&gt;engineers use design exploration (often referred to as meta-heuristics) and optimisation algorithms that intelligently navigate the problem space to find optimal solutions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>http://localhost:1313/supervision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/supervision/</guid>
       <description>&lt;h2 id=&#34;preparing-for-a-thesis&#34;&gt;Preparing for a Thesis&lt;/h2&gt;
 &lt;p&gt;It’s fine to come and ask for a thesis subject. I usually have several research ideas “on stock” that are be suitable for a thesis topic. You may also have an idea yourself, but as mentioned above, I would need to give preference to topics that are related to our ongoing research.&lt;/p&gt;
 &lt;p&gt;Whether you want to discuss your own idea, or we have discussed a topic suitable for your thesis, the next step is preparing a short description of this idea. It is important that you, as a student, write this text, to reduce the risk of mis-communication.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;project-scoping&#34;&gt;Project Scoping&lt;/h2&gt;
+&lt;p&gt;We usually have some projects &amp;ldquo;on stock&amp;rdquo;, which you find below. You will find that many of the suggested projects closely relate to either ongoing research projects or also our interest in a variety of new research areas.&lt;/p&gt;
+&lt;p&gt;Therefore, please also check out the &lt;a href=&#34;http://localhost:1313/research/&#34;&gt;Research&lt;/a&gt; section in case that you&amp;rsquo;re having an idea for a MSc/BSc thesis topic of your own. Projects that address/relate to one of our current research directions will usually be prioritized (to ensure suitable supervision and due time/resource constraints).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our Research</title>
@@ -125,13 +100,11 @@ Last step is what we called Ideal Design / Trade-off based design&lt;/li&gt;
 &lt;p&gt;Just for the sake of completeness you also meet us in:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <title>Remanufactory - National center of excellence for remanufacturing</title>
+      <link>http://localhost:1313/remanufactory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h2 id=&#34;project-scoping&#34;&gt;Project Scoping&lt;/h2&gt;
-&lt;p&gt;We usually have some projects &amp;ldquo;on stock&amp;rdquo;, which you find below. You will find that many of the suggested projects closely relate to either ongoing research projects or also our interest in a variety of new research areas.&lt;/p&gt;
-&lt;p&gt;Therefore, please also check out the &lt;a href=&#34;http://localhost:1313/research/&#34;&gt;Research&lt;/a&gt; section in case that you&amp;rsquo;re having an idea for a MSc/BSc thesis topic of your own. Projects that address/relate to one of our current research directions will usually be prioritized (to ensure suitable supervision and due time/resource constraints).&lt;/p&gt;</description>
+      <guid>http://localhost:1313/remanufactory/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

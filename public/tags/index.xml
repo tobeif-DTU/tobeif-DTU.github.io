@@ -11,26 +11,33 @@
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modelliro</title>
+      <link>http://localhost:1313/tags/modelliro/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/modelliro/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Batch-Disassembly</title>
       <link>http://localhost:1313/tags/batch-disassembly/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/batch-disassembly/</guid>
       <description></description>
     </item>
     <item>
       <title>Remanufactory</title>
       <link>http://localhost:1313/tags/remanufactory/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/remanufactory/</guid>
       <description></description>
     </item>
     <item>
       <title>Student Projects</title>
       <link>http://localhost:1313/tags/student-projects/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/student-projects/</guid>
       <description></description>
     </item>
@@ -95,6 +102,13 @@
       <link>http://localhost:1313/tags/lifelong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/lifelong/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Projects</title>
+      <link>http://localhost:1313/tags/open-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/open-projects/</guid>
       <description></description>
     </item>
     <item>

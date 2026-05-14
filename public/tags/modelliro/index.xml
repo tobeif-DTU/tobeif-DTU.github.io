@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Modelliro on tobeif-DTU</title>
+    <link>http://localhost:1313/tags/modelliro/</link>
+    <description>Recent content in Modelliro on tobeif-DTU</description>
+    <image>
+      <title>tobeif-DTU</title>
+      <url>http://localhost:1313/images/tobeif.png</url>
+      <link>http://localhost:1313/images/tobeif.png</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/modelliro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Great Ideas, nowhere to live - on tool support on early design</title>
+      <link>http://localhost:1313/posts/modelliro_april/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/modelliro_april/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Long Shadow, Little Structure - the most influential part of design has the least tool support&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In theory, the progression of design processes appears straightforward: understand the problem, define the requirements, avoid fixation through creative exploration, select candidate solutions, and further detail the most promising one toward integration, testing, and production ramp-up. It seems like a clear progression from creative ideation to analytical realisation, with a &lt;strong&gt;far-reaching impact (a long shadow) of initial ideas&lt;/strong&gt; on a product&amp;rsquo;s long-term value, usability, and market success. In practice, however, numerous critical pitfalls emerge, many of them widely discussed - such as premature fixation and excessive iterations, lack of cross-functional communication, insufficient reuse, etc. - yet many of them still insufficiently addressed in industrial settings.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -3,6 +3,11 @@
 	date = 2025-06-25
 	draft = false
 	title = 'Fantastic work on repurposing electronic waste, but ... '
+	[cover]
+	image = "https://spectrum.ieee.org/media-library/hands-adjusting-multiple-smartphones-on-a-charging-station.jpg?id=61090419" 
+	alt = "Reuse"
+	relative = false
+	hiddenInSingle = true
 	[params]
 	  author = 'tobeif@dtu.dk'
 	tags = ["Research", "Remanufactory"]

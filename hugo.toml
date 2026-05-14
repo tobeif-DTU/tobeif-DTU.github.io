@@ -13,23 +13,34 @@ enableEmoji = true
     weight = 1
 
   [[menu.main]]
+    identifier = "Posts"
+    name = "Posts"
+    url = "/Posts"
+    weight = 2
+
+  [[menu.main]]
     identifier = "Research"
     name = "Research"
     url = "/Research"
-    weight = 2
+    weight = 3
+
+  [[menu.main]]
+    identifier = "Remanufactory"
+    name = "Remanufactory"
+    url = "/Remanufactory"
+    weight = 4
 
   [[menu.main]]
     identifier = "Courses"
     name = "Courses"
     url = "/Courses"
-    weight = 3
+    weight = 5
 
   [[menu.main]]
     identifier = "Projects"
-    name = "Projects"
+    name = "BSc/MSc Projects"
     url = "/Projects"
-    weight = 3
-
+    weight = 6
 
 [markup]
   [markup.goldmark]
@@ -80,14 +91,18 @@ enableEmoji = true
   <img src="/images/tobeif.png" alt="Tobias Eifler" style="width:130px; height:130px; border-radius:50%; object-fit:cover; flex-shrink:0;">
   <div>
     <strong style="font-size:1.3rem;">Tobias Eifler</strong><br>
-    Associate Professor in Engineering Design and Manufacturing Systems<br>
-    <em>DTU Construct, Technical University of Denmark</em>
+    <a href="https://orbit.dtu.dk/en/persons/tobias-eifler/" target="_blank">Associate Professor in Engineering Design and Manufacturing Systems<br>
+    <em>DTU Construct, Technical University of Denmark</em></a>
   </div>
 </div>
 
-👋 Welcome to our small page that is summarising a bit of the stuff that we do in our small research group at DTU (Technical University of Denmark). I am Associate Professor in Engineering Design and Manufacturing Systems at the Department of Civil & Mechanical Engineering (DTU Construct) with an interest in all questions of product realisation, design uncertainty and variation consideration during product development and production.   
-      
-If you find something interesting on the following pages, if you have ideas, feedback, criticism, or if you just want to get in contact, please shoot us an email at tobeif@dtu.dk!  
+👋 Welcome to a bit of a high-level summary of the stuff that we do in a small research group at DTU. I am Associate Professor in the section for *Engineering Design and Manufacturing Systems* at the *Department of Civil & Mechanical Engineering* - DTU Construct, with an interest in all questions related to Engineering Design, Product Realisation, and the management of Uncertainty and Variation during development and in production. Or borrowing from a modern classic (Robert M. Pirsing's - *Zen and the Art of Motorcycle Maintenance*):   
+
+<blockquote style="text-align:center; border-left:none; font-style:italic;">
+  "... he sees steel in various shapes and has negative feelings about these steel shapes and turns off the whole thing. I look at the shapes of the steel now and I see ideas."
+</blockquote>
+
+Anyways, if you find something interesting on the following pages, if you have ideas, feedback, criticism, or if you just want to get in contact, please just drop us an email at tobeif@dtu.dk!  
 
 """
 
@@ -99,18 +114,22 @@ enableEmoji = true
 
   [[params.socialIcons]]
   name = "github"
-  title = "View Source on Github"
+  title = "View on Github"
   url = "https://github.com/tobeif-DTU"
 
   [[params.socialIcons]]
   name = "Linkedin"
-  title = "Join discord community"
+  title = "Check Linkedin"
   url = "https://www.linkedin.com/in/tobeif-DTU/"
 
   [[params.socialIcons]]
   name = "X"
-  title = "Share PaperMod on X/Twitter"
+  title = "What about X/Twitter"
   url = "https://www.nbcnews.com/tech/social-media/x-twitter-elon-musk-nazi-extremist-white-nationalist-accounts-rcna145020"
+
+  [params.cover]
+  hiddenInList = false
+  hiddenInSingle = false
 
   [params.assets]
   disableHLJS = true

@@ -3,6 +3,7 @@
 	date = 2025-06-26
 	draft = false
 	title = 'Configuration design'
+	hiddenInHomeList = true
 	[params]
 	  author = 'tobeif@dtu.dk'
 	tags = ["MSc/BSc", "Configuration Design", "Research"]

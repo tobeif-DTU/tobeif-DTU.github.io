@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Open Projects
 ShowToc: true
 tocopen: true
 draft: false
