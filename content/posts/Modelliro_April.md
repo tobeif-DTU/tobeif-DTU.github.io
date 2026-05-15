@@ -19,3 +19,6 @@ In theory, the progression of design processes appears straightforward: understa
 **Great Ideas, Nowhere to Live**
 
 What frequently goes unnoticed though is, that many of the issues originate from **a deceptively simple question: How do we systematically capture, store, and ultimately retrieve the valuable ideas we generate**? Whether they are initial spontaneous thoughts, conceptual solutions, early configuration sketches of a physical assembly, or more detailed engineering thoughts, these ideas exist in a wide range of formats—from paper notebooks to presentation slides or digital canvas. They are usually unstructured, non-standardised, inconsistently shared, and difficult to retrieve or compare. As a result, when we need them most, they are scattered, overlooked, or effectively lost—hindering progress and forcing teams to restart efforts instead of building on existing insights.
+
+![Image alt](/images/azembra.png) 
+<p style="font-size:12px; "> A Graph based modelling tool ensuring traceability: <a href="https://modeliro.com/">https://modeliro.com/</a> </p> 
