@@ -1,7 +1,7 @@
 +++
 	date = 2026-04-15
 	draft = false
-	title = 'Great Ideas, nowhere to live - on tool support on early design'
+	title = 'Long Shadow, Little Structure - the most influential part of design has the least tool support'
 	tags = ["Modelliro"]
 	[cover]
 	image = "/images/azembra.png" 
