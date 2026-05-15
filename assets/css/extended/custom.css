@@ -39,3 +39,25 @@
     font-style: italic;
     margin: 1.5rem 0;
 }
+
+
+@media (max-width: 600px) {
+    .post-entry {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+    }
+
+    .post-entry .entry-cover {
+        grid-column: 1;
+        grid-row: 2; /* image below header, or use 1 to put it above */
+    }
+
+    .post-entry .entry-cover img {
+        width: 100%;
+    }
+
+    .post-entry .entry-header { grid-row: 1; }
+    .post-entry .entry-content { grid-row: 3; }
+    .post-entry .entry-footer  { grid-row: 4; }
+    .post-entry .entry-link    { grid-row: 1 / -1; }
+}
