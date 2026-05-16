@@ -41,7 +41,7 @@
 }
 
 
-@media (max-width: 300px) {
+@media (max-width: 600px) {
     .post-entry {
         grid-template-columns: 1fr;
         grid-template-rows: auto;
