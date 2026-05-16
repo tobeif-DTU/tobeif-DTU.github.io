@@ -4,7 +4,7 @@
 	title = 'Long Shadow, Little Structure - the most influential part of design has the least tool support'
 	tags = ["Modelliro"]
 	[cover]
-	image = "/images/azembra.png" 
+	image = "/images/azembra.jpg" 
 	alt = "Tool support in early design"
 	relative = false
 	hiddenInSingle = true
@@ -20,5 +20,5 @@ In theory, the progression of design processes appears straightforward: understa
 
 What frequently goes unnoticed though is, that many of the issues originate from **a deceptively simple question: How do we systematically capture, store, and ultimately retrieve the valuable ideas we generate**? Whether they are initial spontaneous thoughts, conceptual solutions, early configuration sketches of a physical assembly, or more detailed engineering thoughts, these ideas exist in a wide range of formats—from paper notebooks to presentation slides or digital canvas. They are usually unstructured, non-standardised, inconsistently shared, and difficult to retrieve or compare. As a result, when we need them most, they are scattered, overlooked, or effectively lost—hindering progress and forcing teams to restart efforts instead of building on existing insights.
 
-![Image alt](/images/azembra.png) 
+![Image alt](/images/azembra.jpg) 
 <p style="font-size:12px; "> A Graph based modelling tool ensuring traceability: <a href="https://modeliro.com/">https://modeliro.com/</a> </p> 
