@@ -4,7 +4,7 @@
 	title = 'Long Shadow, Little Structure - the most influential part of design has the least tool support'
 	tags = ["Modelliro"]
 	[cover]
-	image = "/images/azembra.jpg" 
+	image = "/images/azembra.png" 
 	alt = "Tool support in early design"
 	relative = false
 	hiddenInSingle = true

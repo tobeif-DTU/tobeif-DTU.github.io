@@ -1,7 +1,7 @@
 /* Thumbnail on the right in post list/overview */
 .post-entry {
     display: grid;
-    grid-template-columns: 1fr 250px;
+    grid-template-columns: 1fr 200px;
     grid-template-rows: auto auto auto;
     column-gap: 1rem;
 }
@@ -13,7 +13,7 @@
 }
 
 .post-entry .entry-cover img {
-    width: 250px;
+    width: 200px;
     /*height: 100%; */
     /*max-height: 130px */
     height: auto;
@@ -41,7 +41,7 @@
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 300px) {
     .post-entry {
         grid-template-columns: 1fr;
         grid-template-rows: auto;
