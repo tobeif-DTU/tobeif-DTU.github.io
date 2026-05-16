@@ -8,7 +8,7 @@ tags:
   - Open Projects
 ---
 
-We're part of  ***Remanufactory***, DTU's new national center for Remanufacturing funded by [Industriensfond](https://industriensfond.dk/) (see the full project overview under ([Remanufactory])(https://www.dtu.dk/english/news/all-news/new-national-centre-to-fill-crucial-gap-in-denmarks-remanufacturing-efforts?id=1399b494-c350-43eb-84f4-adfac314d997). We lead the Work package on Design for Disassembly and Disassembly processes, and are looking forward to / working hard on our new Disassembly and Remanufacturing workshop at DTU 😅 :sweat_smile:.
+We're part of  ***Remanufactory***, DTU's new national center for Remanufacturing funded by [Industriensfond](https://industriensfond.dk/) (see the full project overview under ([Remanufactory])(https://www.dtu.dk/english/news/all-news/new-national-centre-to-fill-crucial-gap-in-denmarks-remanufacturing-efforts?id=1399b494-c350-43eb-84f4-adfac314d997). We lead the Work package on Design for Disassembly and Disassembly processes, and are looking forward to / working hard on our new Disassembly and Remanufacturing workshop at DTU :sweat_smile:.
 
 ### The overall project
 
@@ -22,11 +22,10 @@ Systematic Assessment of Remanufacturability based on remaining value, lifecycle
 #### Planning & Monitoring of Disassembly processes
 Automatic planning tools for disassembly sequences and monitoring of manual & automatic disassembly processes, incl. synthetic data generation for video annotations, equipped disassembly work stations, data feedback from automatic stations.
 
-/* {{< youtube VIDEO_ID >}} */
+{{< youtube dgpRw1gqTYA >}}
+<p style="font-size:12px; "><a href="https://www.decathlon.com/">A Placeholder with a nice setup at KU Leuven  </a> illustrating Disassembly of electronic products</p>
 
-<video controls width="100%">
-  <source src="/videos/Annotation.mp4" type="video/mp4">
-</video>
+
 #### Robust Disassembly processes
 Ensuring predictable and robust disassembly for products.
 #### Design for Disassembly & the right level of automation
