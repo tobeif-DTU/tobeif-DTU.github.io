@@ -12,7 +12,7 @@ We usually have some projects "on stock", which you find below. You will find th
 
 Therefore, please also check out the [Research]({{< relref path=Research.md >}}) section in case that you're having an idea for a MSc/BSc thesis topic of your own. Projects that address/relate to one of our current research directions will usually be prioritized (to ensure suitable supervision and due time/resource constraints). 
 
-And for an overview for our project scoping/supervision process please check [here]({{< relref path=Supervision.md >}}) (*currently a copy from a dear colleague / but fits quite well*)
+And for an overview for our project scoping/supervision process please check [here]({{< relref path=Supervision.md >}}).
 
 ## Currently available projects
 See below for some projects where you can have a nice impact. Most topics are suitable for either BSc/MSc or in reduced form also Special Course format (usually run as kick-off for some larger project afterwards though!). 

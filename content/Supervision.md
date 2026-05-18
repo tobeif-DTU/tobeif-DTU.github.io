@@ -3,7 +3,7 @@
 
 We're always happy to work together with motivated students, so please just reach out or drop by if you're interested in a thesis subject. Usually, we have several ideas “on stock” and you are of course more then welcome to come with your own idea. However, as also mentioned under open projects, we will need to give preference to topics that are related to our ongoing research.
 
-First task is then to avoid any mis-communication. Whether you want to discuss your own idea, or we have discussed a topic suitable for your thesis before, your task is to prepare a short project description of this idea that we will iterate on together then. You should then consider the following points, and sum it up on one A4 page, including the following aspects:
+First task is then to avoid any mis-communication. Whether you want to discuss your own idea, or whether we have discussed a topic suitable for a thesis before, your task is to prepare a short project description of this idea. For this purpose, please consider the following points, and sum it up on one A4 page:
 
 1. A **thesis title** (in English and in Danish) that sums up what you will be doing.
     
@@ -25,9 +25,13 @@ In additon, you need to include also important details like:
 8. How many points (30, 32.5 or 35 for a MSc, 15 or 20 usually for a BSc project).
     
 
-It usually takes a couple of iterations (which we will do together then), but once it’s agreed this process will also form the basis for registering your project. Note that this should be done latest 2 weeks in advance to the project date – but in many cases it is preferable to do this much earlier (even up to half a year in advance), since it will allow a better preparation and possibly also to select final courses that are relevant for the thesis.
+It usually takes a couple of iterations (which we will do together then), but once it’s agreed this description will also form the basis for registering your project. Note that this should be done in advance to the project date – but in many cases it is preferable to do this much earlier (even up to half a year in advance), since it will allow a better preparation and possibly also to select final courses that are relevant for the thesis.
 
-While writing, please also carefully consider the overall learning objectives of a master thesis at DTU and in your study line to be sure this is addressed with your thesis (i.e., have a look at the [Rules for final projects](https://student.dtu.dk/en/rules/afsluttende-projekter) and also your specific [Programme Specifications]([https://studieinformation.dtu.dk/](https://student.dtu.dk/en/programme-specifications))). Just some excerpts 
+While writing, please also carefully consider the overall learning objectives of a master thesis at DTU and in your study line to be sure this is addressed with your thesis (i.e., have a look at the [Rules for final projects](https://student.dtu.dk/en/rules/afsluttende-projekter) and also your specific [Programme Specifications]([https://studieinformation.dtu.dk/](https://student.dtu.dk/en/programme-specifications))). 
+
+In particular, it’s important to ensure the thesis contains both empirical elements (i.e. something you do “in the field” or synthesising solutions etc.) and scientific/academical elements (based on literature etc.) that are combined into an academically driven thesis. In other words, give it a thought what your hypothesis is, what types of studies/experiments you are conducting to investigate it, what related literature is, and how you structure this work. 
+
+Related to this, you find a small non text book type description [On the Scientific Method](/files/Zen.pdf) under the link. And a lot of the corresponding aspects, you will also find in the below excerpt from DTU's Learning Objectives for MSc theses:  
 
 > **The content and learning objectives of the thesis**
 > 
@@ -54,7 +58,7 @@ While writing, please also carefully consider the overall learning objectives of
 > - masters technical problem-solving at a high level through cross-disciplinary teamwork, and can work with and manage all phases of a project – including preparation of timetables, design, solution, and documentation
 >     
 
-In particular, it’s important to ensure the thesis contains both empirical elements (i.e. something you do “in the field” or synthesising solutions etc.) and scientific/academical elements (based on literature etc.). If you're interested in a small read on scientific methods that is not textbook style, you find it here [On the Scientific Method](/files/Zen.pdf)  
+
 
 <!--
 ---
