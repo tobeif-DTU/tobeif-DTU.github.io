@@ -1,11 +1,9 @@
 
 ## Preparing for a Thesis
 
-It’s fine to come and ask for a thesis subject. I usually have several research ideas “on stock” that are be suitable for a thesis topic. You may also have an idea yourself, but as mentioned above, I would need to give preference to topics that are related to our ongoing research.
+We're always happy to work together with motivated students, so please just reach out or drop by if you're interested in a thesis subject. Usually, we have several ideas “on stock” and you are of course more then welcome to come with your own idea. However, as also mentioned under open projects, we will need to give preference to topics that are related to our ongoing research.
 
-Whether you want to discuss your own idea, or we have discussed a topic suitable for your thesis, the next step is preparing a short description of this idea. It is important that you, as a student, write this text, to reduce the risk of mis-communication.
-
-You should then consider the following points, and sum it up on one A4 page, using the following template and mailing it to me in advance:
+First task is then to avoid any mis-communication. Whether you want to discuss your own idea, or we have discussed a topic suitable for your thesis before, your task is to prepare a short project description of this idea that we will iterate on together then. You should then consider the following points, and sum it up on one A4 page, including the following aspects:
 
 1. A **thesis title** (in English and in Danish) that sums up what you will be doing.
     
@@ -27,15 +25,9 @@ In additon, you need to include also important details like:
 8. How many points (30, 32.5 or 35 for a MSc, 15 or 20 usually for a BSc project).
     
 
-It usually takes a couple of iterations to get nailed down. But once it’s agreed, this will then form the basis for registering the project.
+It usually takes a couple of iterations (which we will do together then), but once it’s agreed this process will also form the basis for registering your project. Note that this should be done latest 2 weeks in advance to the project date – but in many cases it is preferable to do this much earlier (even up to half a year in advance), since it will allow a better preparation and possibly also to select final courses that are relevant for the thesis.
 
-Note that this should be done latest 2 weeks in advance to the project date – but in many cases it is preferable to do this much earlier (even up to half a year in advance), since it will allow a better preparation and possibly also to select final courses that are relevant for the thesis.
-
-A thesis can be done when miss 15 or less ECTS in regular course-work.
-
-It can be done individually or with a small group. I usually don’t recommend more than two persons that trust and know one another well.
-
-Also, you should have a look at the overall learning objectives of a master thesis and requirements, to be sure this is addressed with your thesis – here quoting from the [Study Handbook](https://studieinformation.dtu.dk/) [(Direct link for H-CAI)](https://studieinformation.dtu.dk/english/master-of-science-in-engineering/human-centered-artificial-intelligence/programme-specification#Master's_thesis). This is from the 2023 edition; check for any updates:
+While writing, please also carefully consider the overall learning objectives of a master thesis at DTU and in your study line to be sure this is addressed with your thesis (i.e., have a look at the [Rules for final projects](https://student.dtu.dk/en/rules/afsluttende-projekter) and also your specific [Programme Specifications]([https://studieinformation.dtu.dk/](https://student.dtu.dk/en/programme-specifications))). Just some excerpts 
 
 > **The content and learning objectives of the thesis**
 > 
@@ -62,8 +54,9 @@ Also, you should have a look at the overall learning objectives of a master thes
 > - masters technical problem-solving at a high level through cross-disciplinary teamwork, and can work with and manage all phases of a project – including preparation of timetables, design, solution, and documentation
 >     
 
-In particular, it’s important to ensure the thesis contains both empirical elements (i.e. something you do “in the field” or synthesising solutions etc) and scientific/academical elements (based on litterature etc).
+In particular, it’s important to ensure the thesis contains both empirical elements (i.e. something you do “in the field” or synthesising solutions etc.) and scientific/academical elements (based on literature etc.). If you're interested in a small read on scientific methods that is not textbook style, you find it here [On the Scientific Method](/files/Zen.pdf)  
 
+<!--
 ---
 
 ## Supervision process
@@ -77,7 +70,7 @@ In the supervision meetings, we typically talk about
 3. What are the key topics to address for the next 1-2 weeks (your “sprint”), and
 4. What could possibly go wrong…
 
-It is a good idea if you prepare by bringing and presenting your “results”, whether it is a machine learning model, a set of results and statistical tests, qualitative feedback from your interviews, a concrete UI you have designed, some running piece of code or your 3D printed prototype, a table overview of the literature you have reviewed, existing solutions or something else.
+It is a good idea if you prepare by bringing and presenting your “results”, whether it is a machine learning model, a set of results and statistical tests, qualitative feedback from your interviews, a concrete UI you have designed, some running piece of code or your 3D printed prototype, a table overview of the literature you have reviewed, existing solutions or something else. -->
 
 
 
