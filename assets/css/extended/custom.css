@@ -61,3 +61,7 @@
     .post-entry .entry-footer  { grid-row: 4; }
     .post-entry .entry-link    { grid-row: 1 / -1; }
 }
+
+.entry-header h2 {
+  font-size: 1.3rem;
+}
