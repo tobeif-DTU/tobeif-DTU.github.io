@@ -13,16 +13,10 @@ enableEmoji = true
     weight = 1
 
   [[menu.main]]
-    identifier = "Posts"
-    name = "Posts"
-    url = "/Posts"
-    weight = 2
-
-  [[menu.main]]
     identifier = "Research"
-    name = "Research"
+    name = "Ideal Design"
     url = "/Research"
-    weight = 3
+    weight = 2
 
   [[menu.main]]
     identifier = "Remanufactory"
@@ -107,7 +101,8 @@ My interest are all aspects related to these ideas in the realisation of complex
 
 <div style="margin-bottom:1rem;"></div>
 
-Anyways, if you find something interesting on the following pages, if you have ideas, feedback, criticism, or if you just want to get in contact, please just drop us an email at tobeif@dtu.dk!  
+Anyways, if you find something interesting on the following pages, if you have ideas, feedback, criticism, or if you just want to get in contact, please just drop us an email at tobeif@dtu.dk! A full overview of all earlier blog posts can be found here <a href="/Posts/">Archive of Blog Posts</a>.
+
 
 """
 
