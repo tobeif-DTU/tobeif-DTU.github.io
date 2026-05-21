@@ -13,8 +13,10 @@ tags:
 We're part of  ***Remanufactory***, DTU's new national center for Remanufacturing funded by [Industriensfond](https://industriensfond.dk/), see also [DTU news](https://www.dtu.dk/english/news/all-news/new-national-centre-to-fill-crucial-gap-in-denmarks-remanufacturing-efforts?id=1399b494-c350-43eb-84f4-adfac314d997) for a first overview. In the overall project, we lead the work package on *Design for Disassembly & Remanufacturing processes*, and are looking forward to our new Disassembly and Remanufacturing workshop at DTU (and working hard to realise it asap :sweat_smile:).
 
 ### Remanufacturing in a nutshell (the overall project) 
-Description following soon. In the meantime, please have a look at the project homepage page [Remanufactory @ DTU](https://remanufactory.dtu.dk/).
+Description following soon. In the meantime, please have a look at the project homepage page [Remanufactory @ DTU](https://remanufactory.dtu.dk/). Or also at the website from one of our partner companies [Borg Automotive]([https://remanufactory.dtu.dk/](https://borgautomotive-reman.com/)), who have some wonderful examples of remanufactured products and remanufacturing operations in the automotive sector.
 
+<a href="https://borgautomotive-reman.com/our-products/alternators"><img src="https://borgautomotive-reman.com/media/nztjwha3/borgautomotive_stock_final_polen-3750.jpg?format=webp"  alt="HTML tutorial" width="500"></a>
+<p style="font-size:12px; "> Remanufactured Car Alternator | source: <a href="https://borgautomotive-reman.com/our-products/alternators">https://borgautomotive-reman.com</a> </p>
 ### Design for Disassembly & Remanufacturing processes (WP4)
 Description following soon, incl.:
 #### 1. Remanufacturing Assessment
