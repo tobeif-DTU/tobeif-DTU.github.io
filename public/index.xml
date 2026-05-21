@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advancing Batch Disassembly processes</title>
+      <link>http://localhost:1313/posts/batch-disassembly-prototype/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/batch-disassembly-prototype/</guid>
+      <description>&lt;p&gt;There are plenty of reason that Remanufacturing is certainly not the reverse of Manufacturing. One of the key aspects is the question of High Variety / Low volume operations given the necessity of suitable take-loops. Another the question of adaptive processing given the largely varying End of Life Conditions.&lt;/p&gt;
+&lt;p&gt;Within in the Remanufactory project, we&amp;rsquo;re therefore working on advancing Batch-Disassembly processes, i.e., adaptive processes that can adjust to both the variety/variants of the collected cores (often not more than presorted after brand), as well as adaptive operations including vision, data extraction, etc.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Long Shadow, Little Structure - the most influential part of design has the least tool support</title>
       <link>http://localhost:1313/posts/modelliro_april/</link>
@@ -57,16 +65,6 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/remanufactory/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/remanufactory/</guid>
-      <description>&lt;h3 id=&#34;remanufactory---national-center-of-excellence-for-remanufacturing&#34;&gt;Remanufactory - National center of excellence for remanufacturing&lt;/h3&gt;
-&lt;p&gt;We&amp;rsquo;re part of  &lt;em&gt;&lt;strong&gt;Remanufactory&lt;/strong&gt;&lt;/em&gt;, DTU&amp;rsquo;s new national center for Remanufacturing funded by &lt;a href=&#34;https://industriensfond.dk/&#34;&gt;Industriensfond&lt;/a&gt;, see also &lt;a href=&#34;https://www.dtu.dk/english/news/all-news/new-national-centre-to-fill-crucial-gap-in-denmarks-remanufacturing-efforts?id=1399b494-c350-43eb-84f4-adfac314d997&#34;&gt;DTU news&lt;/a&gt; for a first overview. In the overall project, we lead the work package on &lt;em&gt;Design for Disassembly &amp;amp; Remanufacturing processes&lt;/em&gt;, and are looking forward to our new Disassembly and Remanufacturing workshop at DTU (and working hard to realise it asap &amp;#x1f605;).&lt;/p&gt;
-&lt;h3 id=&#34;remanufacturing-in-a-nutshell-the-overall-project&#34;&gt;Remanufacturing in a nutshell (the overall project)&lt;/h3&gt;
-&lt;p&gt;Description following soon. In the meantime, please have a look at the project homepage page &lt;a href=&#34;https://remanufactory.dtu.dk/&#34;&gt;Remanufactory @ DTU&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>http://localhost:1313/supervision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/supervision/</guid>
@@ -107,6 +105,16 @@
 &lt;h4 id=&#34;multi-objective-design-optimisation&#34;&gt;Multi-Objective Design Optimisation&lt;/h4&gt;
 &lt;h3 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h3&gt;
 &lt;p&gt;Just for the sake of completeness you also meet us in:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Remanufactory</title>
+      <link>http://localhost:1313/remanufactory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/remanufactory/</guid>
+      <description>&lt;h2 id=&#34;national-center-of-excellence-for-remanufacturing-at-dtu&#34;&gt;National center of excellence for Remanufacturing at DTU&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;re part of  &lt;em&gt;&lt;strong&gt;Remanufactory&lt;/strong&gt;&lt;/em&gt;, DTU&amp;rsquo;s new national center for Remanufacturing funded by &lt;a href=&#34;https://industriensfond.dk/&#34;&gt;Industriensfond&lt;/a&gt;, see also &lt;a href=&#34;https://www.dtu.dk/english/news/all-news/new-national-centre-to-fill-crucial-gap-in-denmarks-remanufacturing-efforts?id=1399b494-c350-43eb-84f4-adfac314d997&#34;&gt;DTU news&lt;/a&gt; for a first overview. In the overall project, we lead the work package on &lt;em&gt;Design for Disassembly &amp;amp; Remanufacturing processes&lt;/em&gt;, and are looking forward to our new Disassembly and Remanufacturing workshop at DTU (and working hard to realise it asap &amp;#x1f605;).&lt;/p&gt;
+&lt;h3 id=&#34;remanufacturing-in-a-nutshell-the-overall-project&#34;&gt;Remanufacturing in a nutshell (the overall project)&lt;/h3&gt;
+&lt;p&gt;Description following soon. In the meantime, please have a look at the project homepage page &lt;a href=&#34;https://remanufactory.dtu.dk/&#34;&gt;Remanufactory @ DTU&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

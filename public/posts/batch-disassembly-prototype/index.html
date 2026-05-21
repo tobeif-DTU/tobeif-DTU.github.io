@@ -5,14 +5,12 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Remanufactory | tobeif-DTU</title>
-<meta name="keywords" content="Research, Open Projects">
-<meta name="description" content="National center of excellence for Remanufacturing at DTU
-We&rsquo;re part of  Remanufactory, DTU&rsquo;s new national center for Remanufacturing funded by Industriensfond, see also DTU news for a first overview. In the overall project, we lead the work package on Design for Disassembly &amp; Remanufacturing processes, and are looking forward to our new Disassembly and Remanufacturing workshop at DTU (and working hard to realise it asap &#x1f605;).
-Remanufacturing in a nutshell (the overall project)
-Description following soon. In the meantime, please have a look at the project homepage page Remanufactory @ DTU.">
-<meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/remanufactory/">
+<title>Advancing Batch Disassembly processes | tobeif-DTU</title>
+<meta name="keywords" content="Remanufactory, Vision Systems">
+<meta name="description" content="There are plenty of reason that Remanufacturing is certainly not the reverse of Manufacturing. One of the key aspects is the question of High Variety / Low volume operations given the necessity of suitable take-loops. Another the question of adaptive processing given the largely varying End of Life Conditions.
+Within in the Remanufactory project, we&rsquo;re therefore working on advancing Batch-Disassembly processes, i.e., adaptive processes that can adjust to both the variety/variants of the collected cores (often not more than presorted after brand), as well as adaptive operations including vision, data extraction, etc.">
+<meta name="author" content="tobeif@dtu.dk">
+<link rel="canonical" href="http://localhost:1313/posts/batch-disassembly-prototype/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.838f841782183236da40c12261ce47eb8a7bdbde31595e4bffb10e9d0dcde19f.css" integrity="sha256-g4&#43;EF4IYMjbaQMEiYc5H64p7294xWV5L/7EOnQ3N4Z8=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
@@ -21,7 +19,7 @@ Description following soon. In the meantime, please have a look at the project h
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/remanufactory/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/batch-disassembly-prototype/">
 <noscript>
     <style>
         #theme-toggle,
@@ -113,7 +111,7 @@ Description following soon. In the meantime, please have a look at the project h
             </li>
             <li>
                 <a href="http://localhost:1313/remanufactory" title="Remanufactory">
-                    <span class="active">Remanufactory</span>
+                    <span>Remanufactory</span>
                 </a>
             </li>
             <li>
@@ -135,76 +133,28 @@ Description following soon. In the meantime, please have a look at the project h
   <header class="post-header">
     
     <h1 class="post-title entry-hint-parent">
-      Remanufactory
+      Advancing Batch Disassembly processes
     </h1>
-    <div class="post-meta">
+    <div class="post-meta"><span title='2026-05-21 00:00:00 +0000 UTC'>May 21, 2026</span>&nbsp;·&nbsp;tobeif@dtu.dk
 
 </div>
-  </header> <div class="toc">
-    <details >
-        <summary accesskey="c" title="(Alt + C)">
-            <span class="details">Table of Contents</span>
-        </summary>
-
-        <div class="inner"><ul>
-                <li>
-                    <a href="#national-center-of-excellence-for-remanufacturing-at-dtu" aria-label="National center of excellence for Remanufacturing at DTU">National center of excellence for Remanufacturing at DTU</a><ul>
-                        
-                <li>
-                    <a href="#remanufacturing-in-a-nutshell-the-overall-project" aria-label="Remanufacturing in a nutshell (the overall project)">Remanufacturing in a nutshell (the overall project)</a></li>
-                <li>
-                    <a href="#design-for-disassembly--remanufacturing-processes-wp4" aria-label="Design for Disassembly &amp; Remanufacturing processes (WP4)">Design for Disassembly &amp; Remanufacturing processes (WP4)</a><ul>
-                        
-                <li>
-                    <a href="#1-remanufacturing-assessment" aria-label="1. Remanufacturing Assessment">1. Remanufacturing Assessment</a></li>
-                <li>
-                    <a href="#2-planning--monitoring-of-disassembly-processes" aria-label="2. Planning &amp; Monitoring of Disassembly processes">2. Planning &amp; Monitoring of Disassembly processes</a></li>
-                <li>
-                    <a href="#3-robust-disassembly-processes" aria-label="3. Robust Disassembly processes">3. Robust Disassembly processes</a></li></ul>
-                </li>
-                <li>
-                    <a href="#the-remanufactory" aria-label="The Remanufactory">The Remanufactory</a>
-                </li>
-            </ul>
-            </li>
-            </ul>
-        </div>
-    </details>
-</div>
-
-  <div class="post-content"><h2 id="national-center-of-excellence-for-remanufacturing-at-dtu">National center of excellence for Remanufacturing at DTU<a hidden class="anchor" aria-hidden="true" href="#national-center-of-excellence-for-remanufacturing-at-dtu">#</a></h2>
-<p>We&rsquo;re part of  <em><strong>Remanufactory</strong></em>, DTU&rsquo;s new national center for Remanufacturing funded by <a href="https://industriensfond.dk/">Industriensfond</a>, see also <a href="https://www.dtu.dk/english/news/all-news/new-national-centre-to-fill-crucial-gap-in-denmarks-remanufacturing-efforts?id=1399b494-c350-43eb-84f4-adfac314d997">DTU news</a> for a first overview. In the overall project, we lead the work package on <em>Design for Disassembly &amp; Remanufacturing processes</em>, and are looking forward to our new Disassembly and Remanufacturing workshop at DTU (and working hard to realise it asap &#x1f605;).</p>
-<h3 id="remanufacturing-in-a-nutshell-the-overall-project">Remanufacturing in a nutshell (the overall project)<a hidden class="anchor" aria-hidden="true" href="#remanufacturing-in-a-nutshell-the-overall-project">#</a></h3>
-<p>Description following soon. In the meantime, please have a look at the project homepage page <a href="https://remanufactory.dtu.dk/">Remanufactory @ DTU</a>.</p>
-<h3 id="design-for-disassembly--remanufacturing-processes-wp4">Design for Disassembly &amp; Remanufacturing processes (WP4)<a hidden class="anchor" aria-hidden="true" href="#design-for-disassembly--remanufacturing-processes-wp4">#</a></h3>
-<p>Description following soon, incl.:</p>
-<h4 id="1-remanufacturing-assessment">1. Remanufacturing Assessment<a hidden class="anchor" aria-hidden="true" href="#1-remanufacturing-assessment">#</a></h4>
-<p>Systematic Assessment of Remanufacturability based on remaining value, lifecycle impact, disassembly effort, and End of Life conditions.</p>
-<h4 id="2-planning--monitoring-of-disassembly-processes">2. Planning &amp; Monitoring of Disassembly processes<a hidden class="anchor" aria-hidden="true" href="#2-planning--monitoring-of-disassembly-processes">#</a></h4>
-<p>Automatic planning tools for disassembly sequences and monitoring of manual &amp; automatic disassembly processes (incl. synthetic data generation for video annotations, equipped disassembly work stations, etc.)</p>
-<h4 id="3-robust-disassembly-processes">3. Robust Disassembly processes<a hidden class="anchor" aria-hidden="true" href="#3-robust-disassembly-processes">#</a></h4>
-<p>Ensuring predictable and robust disassembly for products.</p>
-<h3 id="the-remanufactory">The Remanufactory<a hidden class="anchor" aria-hidden="true" href="#the-remanufactory">#</a></h3>
-<p>Our physical demonstration lab space at DTU, including work on Entrance diagnosis and material testing, Disassembly, Cleaning. Reconditioning and reassembly (in the future).  While numerous colleagues are working hard to set that up, a short impression of one of our Prototypes for flexible batch-disassembly processes:</p>
+  </header> 
+  <div class="post-content"><p>There are plenty of reason that Remanufacturing is certainly not the reverse of Manufacturing. One of the key aspects is the question of High Variety / Low volume operations given the necessity of suitable take-loops. Another the question of adaptive processing given the largely varying End of Life Conditions.</p>
+<p>Within in the Remanufactory project, we&rsquo;re therefore working on advancing Batch-Disassembly processes, i.e., adaptive processes that can adjust to both the variety/variants of the collected cores (often not more than presorted after brand), as well as adaptive operations including vision, data extraction, etc.</p>
+<p>Below the illustration of a recent prototype with a hybrid tool head allowing for adaptive processing of both screw type fasteners and snap fit fasteners in one single process</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/dmWJ-XHhpuU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
     </div>
 
 <p style="font-size:12px; "> Prototype for Batch-Disassembly processes, incl. hybrid tool head for screw and snap fit fasteners, tool changer, vision control, data extraction, etc.</p>
-<p>and a short inspiration from good colleagues in Belgium working on automatic recovery of components from electronic consumer devices:</p>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/dgpRw1gqTYA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-    </div>
-
-<p style="font-size:12px; "><a href="https://research.kuleuven.be/portal/en/project/3E230611">A Placeholder with a nice setup at KU Leuven  </a> illustrating Disassembly of electronic products</p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="http://localhost:1313/tags/research/">Research</a></li>
-      <li><a href="http://localhost:1313/tags/open-projects/">Open Projects</a></li>
+      <li><a href="http://localhost:1313/tags/remanufactory/">Remanufactory</a></li>
+      <li><a href="http://localhost:1313/tags/vision-systems/">Vision Systems</a></li>
     </ul>
   </footer>
 </article>

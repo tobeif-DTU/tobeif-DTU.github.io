@@ -2,9 +2,8 @@
 	date = 2026-05-21
 	draft = false
 	title = 'Advancing Batch Disassembly processes'
-	hiddenInHomeList = true
 	[cover]
-	image = "/images/Prototype.jpeg"  
+	image = "/images/Prototype.jpg"  
 	alt = "Reuse"
 	relative = false
 	hiddenInSingle = true
