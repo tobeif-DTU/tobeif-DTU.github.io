@@ -1,5 +1,5 @@
 ---
-title: 
+title: Remanufactory
 ShowToc: true
 tocopen: false
 draft: false
@@ -8,7 +8,7 @@ tags:
   - Open Projects
 ---
 
-### Remanufactory - National center of excellence for remanufacturing
+## National center of excellence for Remanufacturing at DTU
 
 We're part of  ***Remanufactory***, DTU's new national center for Remanufacturing funded by [Industriensfond](https://industriensfond.dk/), see also [DTU news](https://www.dtu.dk/english/news/all-news/new-national-centre-to-fill-crucial-gap-in-denmarks-remanufacturing-efforts?id=1399b494-c350-43eb-84f4-adfac314d997) for a first overview. In the overall project, we lead the work package on *Design for Disassembly & Remanufacturing processes*, and are looking forward to our new Disassembly and Remanufacturing workshop at DTU (and working hard to realise it asap :sweat_smile:).
 
