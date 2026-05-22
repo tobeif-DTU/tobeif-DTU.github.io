@@ -1,5 +1,5 @@
 +++
-	date = 2026-05-21
+	date = 2026-05-19
 	draft = false
 	title = 'Advancing Batch Disassembly processes'
 	[cover]

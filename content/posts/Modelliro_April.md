@@ -2,6 +2,7 @@
 	date = 2026-04-15
 	draft = false
 	title = 'Long Shadow, Little Structure - the most influential part of design has the least tool support'
+	hiddenInHomeList = true
 	tags = ["Modelliro"]
 	[cover]
 	image = "/images/azembra.jpg" 
@@ -10,6 +11,7 @@
 	hiddenInSingle = true
 	[params]
 	author = 'tobeif@dtu.dk'
+	tags = ["KG", "Design Tools", "Systems Engineering"]
 +++
 
 **Long Shadow, Little Structure - the most influential part of design has the least tool support**

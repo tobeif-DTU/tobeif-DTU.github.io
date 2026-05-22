@@ -1,3 +1,4 @@
+
 ---
 title: Remanufactory
 ShowToc: true
@@ -5,18 +6,39 @@ tocopen: false
 draft: false
 tags:
   - Research
-  - Open Projects
+  - Remanufacturing
 ---
 
-## National center of excellence for Remanufacturing at DTU
+## National Center for Remanufacturing
 
-We're part of  ***Remanufactory***, DTU's new national center for Remanufacturing funded by [Industriensfond](https://industriensfond.dk/), see also [DTU news](https://www.dtu.dk/english/news/all-news/new-national-centre-to-fill-crucial-gap-in-denmarks-remanufacturing-efforts?id=1399b494-c350-43eb-84f4-adfac314d997) for a first overview. In the overall project, we lead the work package on *Design for Disassembly & Remanufacturing processes*, and are looking forward to our new Disassembly and Remanufacturing workshop at DTU (and working hard to realise it asap :sweat_smile:).
+We're part of  ***Remanufactory***, DTU's new national center of excellence for Remanufacturing funded by [Industriensfond](https://industriensfond.dk/), see also [DTU news](https://www.dtu.dk/english/news/all-news/new-national-centre-to-fill-crucial-gap-in-denmarks-remanufacturing-efforts?id=1399b494-c350-43eb-84f4-adfac314d997) for a first overview. In the overall project, we lead the work package on *Design for Disassembly & Remanufacturing processes*, and are looking forward to our new Disassembly and Remanufacturing workshop at DTU (and working hard to realise it asap :sweat_smile:).
 
 ### Remanufacturing in a nutshell (the overall project) 
 Description following soon. In the meantime, please have a look at the project homepage page [Remanufactory @ DTU](https://remanufactory.dtu.dk/). Or also at the website from one of our partner companies [Borg Automotive]([https://remanufactory.dtu.dk/](https://borgautomotive-reman.com/)), who have some wonderful examples of remanufactured products and remanufacturing operations in the automotive sector.
 
-<a href="https://borgautomotive-reman.com/our-products/alternators"><img src="https://borgautomotive-reman.com/media/nztjwha3/borgautomotive_stock_final_polen-3750.jpg?format=webp"  alt="HTML tutorial" width="500"></a>
-<p style="font-size:12px; "> Remanufactured Car Alternator | source: <a href="https://borgautomotive-reman.com/our-products/alternators">https://borgautomotive-reman.com</a> </p>
+{{< youtube bMMxDN5liTc >}}
+	<p style="font-size:12px;">  
+		Remanufacturing of Car Alternators | source:  
+		<a href="https://borgautomotive-reman.com/our-products/alternators">  borgautomotive-reman.com  
+		</a>  
+	</p> 
+
+<!--
+
+<div style="text-align:center;">  
+	<img  
+		src="https://borgautomotive-reman.com/media/nztjwha3/borgautomotive_stock_final_polen-3750.jpg?format=webp" 
+		alt="Remanufactured Car Alternator"  
+		style="max-width:80%; height:auto;"  
+		> 
+	<p style="font-size:12px;">  
+		Remanufactured Car Alternator | source:  
+		<a href="https://borgautomotive-reman.com/our-products/alternators">  borgautomotive-reman.com  
+		</a>  
+	</p>  
+</div>
+-->
+
 ### Design for Disassembly & Remanufacturing processes (WP4)
 Description following soon, incl.:
 #### 1. Remanufacturing Assessment
@@ -32,7 +54,7 @@ Our physical demonstration lab space at DTU, including work on Entrance diagnosi
 {{< youtube dmWJ-XHhpuU >}}
 <p style="font-size:12px; "> Prototype for Batch-Disassembly processes, incl. hybrid tool head for screw and snap fit fasteners, tool changer, vision control, data extraction, etc.</p>
 
-and a short inspiration from good colleagues in Belgium working on automatic recovery of components from electronic consumer devices: 
+and a short inspiration from colleagues in Belgium working on automatic recovery of components from electronic consumer devices (definitely worth to check out as well): 
 
 {{< youtube dgpRw1gqTYA >}}
 <p style="font-size:12px; "><a href="https://research.kuleuven.be/portal/en/project/3E230611">A Placeholder with a nice setup at KU Leuven  </a> illustrating Disassembly of electronic products</p>

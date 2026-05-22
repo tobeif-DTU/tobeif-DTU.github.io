@@ -1,3 +1,4 @@
+
 ---
 title: Open Projects
 ShowToc: true
@@ -6,7 +7,6 @@ draft: false
 tags:
   - MSc/BSc
 ---
-
 ## Project Scoping
 We usually have some projects "on stock", which you find below. You will find that many of the suggested projects closely relate to either ongoing research projects or also our interest in a variety of new research areas. 
 
