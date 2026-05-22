@@ -13,7 +13,7 @@
 	tags = ["KG", "Design Tools", "Systems Engineering"]
 +++
 
- **Why we need systems to better support learning in design!**
+ **Why the most influential part of design has the least tool support**!**
 
 There are two modes of design problem-solving: **lateral** (broad ideation to avoid premature fixation) and **vertical** (deep evaluation to ensure feasibility). However, far too often these mindsets are kept frustratingly separate. The result? A **design dilemma**: Ideas get judged without sufficient context, or half-formed concepts lock teams into narrow solutions too early. Either way, critical knowledge gaps emerge, leading to endless revision cycles, interdisciplinary silos, and outcomes that nobody's quite satisfied with.
 
