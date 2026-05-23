@@ -10,7 +10,7 @@ tags:
 ---
 
 ## In search of the Ideal Design ... 
-The objective of my research is to widen the applicability of detailed engineering and optimization knowledge in earlier design stages to allow for better informed (design) decision making when conceptualizing and developing robust physical assemblies. This includes three main thrusts, all related to the questions of variation in engineering and development. While our background is the fundamental idea of Robust Design, Kinematic design heuristics, and tolerancing knowledge, we have gradually developed this direction towards a comprehensive toolbox for design automation and design exploration. Lastly, variation is only increasing when looking into circular products and the question of several lifecycles.
+Our research objective is to widen the applicability of detailed engineering and optimization knowledge in earlier design stages to allow for better informed (design) decision making when conceptualizing and developing robust physical assemblies. This includes three main thrusts, all related to the questions of variation in engineering and development. While our background is the fundamental idea of Robust Design, Kinematic design heuristics, and tolerancing knowledge, we have gradually developed this direction towards a comprehensive toolbox for design automation and design exploration. Lastly, variation is only increasing when looking into circular products and the question of several lifecycles.
 
 ![Image alt](/images/Research.png)
 
