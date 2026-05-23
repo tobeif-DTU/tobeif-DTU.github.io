@@ -2,7 +2,7 @@
 	date = 2026-04-15
 	draft = false
 	title = 'Long Shadow, Little Structure - '
-	hiddenInHomeList = false
+	hiddenInHomeList = True
 	tags = ["Modelliro"]
 	[cover]
 	image = "/images/azembra.jpg" 
