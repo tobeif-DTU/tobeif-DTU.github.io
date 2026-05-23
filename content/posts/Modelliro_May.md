@@ -2,7 +2,7 @@
 +++
 	date = 2026-05-21
 	draft = false
-	title = 'No Room for Ideas'
+	title = 'Great Ideas, nowhere to live - '
 	[cover]
 	image = "/images/azembra.jpg"  
 	alt = "Reuse"
@@ -13,11 +13,11 @@
 	tags = ["KG", "Design Tools", "Systems Engineering"]
 +++
 
- **Why the most influential part of design has the least tool support**!
+ **or why design support tools need to be built for *Learning*, not just for *Doing****!
 
 There are two modes of design problem-solving: **lateral** (broad ideation to avoid premature fixation) and **vertical** (deep evaluation to ensure feasibility). However, far too often these mindsets are kept frustratingly separate. The result? A **design dilemma**: Ideas get judged without sufficient context, or half-formed concepts lock teams into narrow solutions too early. Either way, critical knowledge gaps emerge, leading to endless revision cycles, interdisciplinary silos, and outcomes that nobody's quite satisfied with.
 
-Available tools used in (engineering) design reflect this challenge: Miro boards sprawling with disconnected thoughts, notebook sketches lost to time, efforts for creating parametrized CAD models based on a half-baked understanding of the design task. All these symptoms have one common cause. When cross-functional teams can't trace their ideation, when knowledge is scattered, and when it gets unclear how a decision was made or why an idea was abandoned, collaboration breaks down and institutional knowledge evaporates.
+<!-- Available tools used in (engineering) design reflect this challenge: Miro boards sprawling with disconnected thoughts, notebook sketches lost to time, efforts for creating parametrized CAD models based on a half-baked understanding of the design task. All these symptoms have one common cause. When cross-functional teams can't trace their ideation, when knowledge is scattered, and when it gets unclear how a decision was made or why an idea was abandoned, collaboration breaks down and institutional knowledge evaporates. -->
 
 **Design as Learning**
 
