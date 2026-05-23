@@ -13,7 +13,7 @@
 	tags = ["KG", "Design Tools", "Systems Engineering"]
 +++
 
- **or why design support tools need to be built for *Learning*, not just for *Doing****!
+### Why design support tools need to be built for *Learning*, not just for *Doing*!
 
 There are two modes of design problem-solving: **lateral** (broad ideation to avoid premature fixation) and **vertical** (deep evaluation to ensure feasibility). However, far too often these mindsets are kept frustratingly separate. The result? A **design dilemma**: Ideas get judged without sufficient context, or half-formed concepts lock teams into narrow solutions too early. Either way, critical knowledge gaps emerge, leading to endless revision cycles, interdisciplinary silos, and outcomes that nobody's quite satisfied with.
 

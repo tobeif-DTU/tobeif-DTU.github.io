@@ -14,7 +14,7 @@
 	tags = ["KG", "Design Tools", "Systems Engineering"]
 +++
 
-**Why the most influential part of design has the least tool support**!
+### Why the most influential part of design has the least tool support!
 
 In theory, the progression of design processes appears straightforward: understand the problem, define the requirements, avoid fixation through creative exploration, select candidate solutions, and further detail the most promising one toward integration, testing, and production ramp-up. It seems like a clear progression from creative ideation to analytical realisation, with a **far-reaching impact (a long shadow) of initial ideas** on a product's long-term value, usability, and market success. In practice, however, numerous critical pitfalls emerge, many of them widely discussed - such as premature fixation and excessive iterations, lack of cross-functional communication, insufficient reuse, etc. - yet many of them still insufficiently addressed in industrial settings.
 

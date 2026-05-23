@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on tobeif-DTU</title>
+    <title>Archive of Blog Posts on tobeif-DTU</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on tobeif-DTU</description>
+    <description>Recent content in Archive of Blog Posts on tobeif-DTU</description>
     <image>
       <title>tobeif-DTU</title>
       <url>http://localhost:1313/images/tobeif.png</url>
@@ -14,11 +14,11 @@
     <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>No Room for Ideas</title>
+      <title>Great Ideas, nowhere to live - </title>
       <link>http://localhost:1313/posts/modelliro_may/</link>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/modelliro_may/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Why the most influential part of design has the least tool support&lt;/strong&gt;!&lt;/p&gt;
+      <description>&lt;h3 id=&#34;why-design-support-tools-need-to-be-built-for-learning-not-just-for-doing&#34;&gt;Why design support tools need to be built for &lt;em&gt;Learning&lt;/em&gt;, not just for &lt;em&gt;Doing&lt;/em&gt;!&lt;/h3&gt;
 &lt;p&gt;There are two modes of design problem-solving: &lt;strong&gt;lateral&lt;/strong&gt; (broad ideation to avoid premature fixation) and &lt;strong&gt;vertical&lt;/strong&gt; (deep evaluation to ensure feasibility). However, far too often these mindsets are kept frustratingly separate. The result? A &lt;strong&gt;design dilemma&lt;/strong&gt;: Ideas get judged without sufficient context, or half-formed concepts lock teams into narrow solutions too early. Either way, critical knowledge gaps emerge, leading to endless revision cycles, interdisciplinary silos, and outcomes that nobody&amp;rsquo;s quite satisfied with.&lt;/p&gt;</description>
     </item>
     <item>
@@ -30,11 +30,11 @@
 &lt;p&gt;Within in the Remanufactory project, we&amp;rsquo;re therefore working on advancing Batch-Disassembly processes, i.e., adaptive processes that can adjust to both the variety/variants of the collected cores (often not more than presorted after brand), as well as adaptive operations including vision, data extraction, etc.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Long Shadow, Little Structure - the most influential part of design has the least tool support</title>
+      <title>Long Shadow, Little Structure - </title>
       <link>http://localhost:1313/posts/modelliro_april/</link>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/modelliro_april/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Long Shadow, Little Structure - the most influential part of design has the least tool support&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;h3 id=&#34;why-the-most-influential-part-of-design-has-the-least-tool-support&#34;&gt;Why the most influential part of design has the least tool support!&lt;/h3&gt;
 &lt;p&gt;In theory, the progression of design processes appears straightforward: understand the problem, define the requirements, avoid fixation through creative exploration, select candidate solutions, and further detail the most promising one toward integration, testing, and production ramp-up. It seems like a clear progression from creative ideation to analytical realisation, with a &lt;strong&gt;far-reaching impact (a long shadow) of initial ideas&lt;/strong&gt; on a product&amp;rsquo;s long-term value, usability, and market success. In practice, however, numerous critical pitfalls emerge, many of them widely discussed - such as premature fixation and excessive iterations, lack of cross-functional communication, insufficient reuse, etc. - yet many of them still insufficiently addressed in industrial settings.&lt;/p&gt;</description>
     </item>
     <item>
