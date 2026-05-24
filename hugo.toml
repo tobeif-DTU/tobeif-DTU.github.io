@@ -18,12 +18,6 @@ enableEmoji = true
     url = "/Research"
     weight = 2
 
-    [[menu.main]]
-    identifier = "Posts"
-    name = "Posts Archive"
-    url = "/Posts"
-    weight = 3
-
   [[menu.main]]
     identifier = "Remanufactory"
     name = "Remanufactory"
