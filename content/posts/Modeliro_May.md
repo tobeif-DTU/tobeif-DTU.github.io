@@ -4,8 +4,8 @@
 	draft = false
 	title = 'Great Ideas, nowhere to live - '
 	[cover]
-	image = "/images/azembra.jpg"  
-	alt = "Reuse"
+	image = "/images/modeliro/2605_modeliro_PMP.jpg"  
+	alt = "PMP Recycling Graph"
 	relative = false
 	hiddenInSingle = true
 	[params]
@@ -29,8 +29,20 @@ This reframing asks a set of fundamental questions: How do we **collaboratively 
 
 ... instead of relying on whiteboard solutions without any knowledge architecture or traditional, geometry focused, engineering documentation tools such as CAD. Whether it is for analyzing legacy products to collect new knowledge and to formulate new ideas (be that in manual or automatic workflows), or for exploring a new idea and new knowledge from scratch.
 
+<!--
 ![Image alt](/images/azembra.jpg) 
 <p style="font-size:12px; "> A Graph based modelling tool ensuring traceability: <a href="https://modeliro.com/">https://modeliro.com/</a> </p> 
+-->
+
+<figure style="text-align: center; margin: 0;">
+  <img src="/images/modeliro/2605_modeliro_PMP.jpg"
+	   alt="Graph-based Interface"
+	   style="max-width: 80%; height: auto; margin: 0 auto;"
+	   loading="lazy">
+  <figcaption style="font-size: 12px;">
+    Graph-based interface for product development and realisation in <a href="https://modeliro.com">https://modeliro.com </a> | Courtesy: PMP recycling 
+  </figcaption>
+</figure>
 
 **Traceability without bureaucracy**
 Addressing the above question, [Modeliro's](https://modeliro.com/) intuitive graph-based interface captures every iteration, every rejected path, every "what if" scenario - not as paperwork, but as navigable knowledge. When stakeholders ask "why did we choose this?" you'll have answers, complete with context, thus:
