@@ -22,4 +22,5 @@ However, one of the main aspects gets easily lost in a lot of media coverage! Th
 
 **In other words:** the work does not only illustrate innovative solutions, but also underlines the need to design for more repair-, reuse-, and remanufacturing-friendly solutions in all fields, not only customer electronics! 
 
-We're looking forward to contribute writing that story as part of the newly established national center for Remanufacturing at DTU funded by  [Industriensfond](https://industriensfond.dk/), see also [Remanufactory](https://www.dtu.dk/english/news/all-news/new-national-centre-to-fill-crucial-gap-in-denmarks-remanufacturing-efforts?id=1399b494-c350-43eb-84f4-adfac314d997).
+We're looking forward to contribute writing that story as part of the newly established national center for Remanufacturing at DTU funded by  [Industriensfond](https://industriensfond.dk/), see also [Remanufactory]({{< relref path=Remanufactory.md >}}).
+
