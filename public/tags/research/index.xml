@@ -25,10 +25,10 @@
     </item>
     <item>
       <title>Fantastic work on repurposing electronic waste, but ... </title>
-      <link>http://localhost:1313/posts/re-use/</link>
+      <link>http://localhost:1313/posts/reuse/</link>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/re-use/</guid>
-      <description>&lt;p&gt;Estonian researchers have repurposed 15-year-old smartphones as tiny underwater data centers, outperforming popular IoT-specific devices such as the Rasperry Pi (&lt;a href=&#34;https://spectrum.ieee.org/smartphone-data-centers&#34;&gt;Link here&lt;/a&gt;). Without doubt a really nice and innovative idea for addressing and highlighting the electronic waste problem!&lt;/p&gt;
+      <guid>http://localhost:1313/posts/reuse/</guid>
+      <description>&lt;p&gt;Estonian researchers have repurposed 15-year-old smartphones as tiny underwater data centers, outperforming popular IoT-specific devices such as the Rasperry Pi (&lt;a href=&#34;https://researchinestonia.eu/2025/06/25/old-smartphones-as-data-centers/&#34;&gt;Link here&lt;/a&gt;). Without doubt a really nice and innovative idea for addressing and highlighting the electronic waste problem!&lt;/p&gt;
 &lt;p&gt;However, one of the main aspects gets easily lost in a lot of media coverage! The research team needed to use an old line of phones, discontinued in 2016, as almost all manufacturers systematically reduced modularity of their models, moved towards increasingly proprietary software, and implemented manufacturing approaches that make it impossible to remove/replace/repair components.&lt;/p&gt;</description>
     </item>
     <item>
