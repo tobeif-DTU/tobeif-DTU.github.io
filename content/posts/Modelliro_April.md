@@ -2,7 +2,7 @@
 	date = 2026-04-15
 	draft = false
 	title = 'Long Shadow, Little Structure - '
-	hiddenInHomeList = False
+	hiddenInHomeList = false
 	tags = ["Modelliro"]
 	[cover]
 	image = "/images/modeliro/2604_modeliro_toollandscape.jpg" 
