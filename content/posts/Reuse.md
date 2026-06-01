@@ -4,7 +4,7 @@
 	draft = false
 	title = 'Fantastic work on repurposing electronic waste, but ... '
 	[cover]
-	image = "https://spectrum.ieee.org/media-library/hands-adjusting-multiple-smartphones-on-a-charging-station.jpg?id=61090419" 
+	image = "https://researchinestonia.eu/rwp/wp-content/uploads/fly-images/11742/RiE-fb-3-1-1170x770-c.png" 
 	alt = "Reuse"
 	relative = false
 	hiddenInSingle = true
@@ -13,7 +13,7 @@
 	tags = ["Research", "Remanufactory"]
 +++
 
-Estonian researchers have repurposed 15-year-old smartphones as tiny underwater data centers, outperforming popular IoT-specific devices such as the Rasperry Pi ([Link here](https://spectrum.ieee.org/smartphone-data-centers)). Without doubt a really nice and innovative idea for addressing and highlighting the electronic waste problem! 
+Estonian researchers have repurposed 15-year-old smartphones as tiny underwater data centers, outperforming popular IoT-specific devices such as the Rasperry Pi ([Link here](https://researchinestonia.eu/2025/06/25/old-smartphones-as-data-centers/)). Without doubt a really nice and innovative idea for addressing and highlighting the electronic waste problem! 
 
 However, one of the main aspects gets easily lost in a lot of media coverage! The research team needed to use an old line of phones, discontinued in 2016, as almost all manufacturers systematically reduced modularity of their models, moved towards increasingly proprietary software, and implemented manufacturing approaches that make it impossible to remove/replace/repair components. 
 

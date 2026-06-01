@@ -2,10 +2,10 @@
 	date = 2026-04-15
 	draft = false
 	title = 'Long Shadow, Little Structure - '
-	hiddenInHomeList = true
+	hiddenInHomeList = False
 	tags = ["Modelliro"]
 	[cover]
-	image = "/images/azembra.jpg" 
+	image = "/images/modeliro/2604_modeliro_toollandscape.jpg" 
 	alt = "Tool support in early design"
 	relative = false
 	hiddenInSingle = true
