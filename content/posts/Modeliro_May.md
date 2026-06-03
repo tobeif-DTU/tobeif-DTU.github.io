@@ -30,7 +30,7 @@ This reframing asks a set of fundamental questions: How do we **collaboratively 
 ... instead of relying on whiteboard solutions without any knowledge architecture or traditional, geometry focused, engineering documentation tools such as CAD. Whether it is for analyzing legacy products to collect new knowledge and to formulate new ideas (be that in manual or automatic workflows), or for exploring a new idea and new knowledge from scratch.
 
 <!--
-![Image alt](/images/azembra.jpg) 
+![Image alt](/images/modeliro/2605_modeliro_PMP.jpg) 
 <p style="font-size:12px; "> A Graph based modelling tool ensuring traceability: <a href="https://modeliro.com/">https://modeliro.com/</a> </p> 
 -->
 
@@ -59,7 +59,7 @@ Addressing the above question, [Modeliro's](https://modeliro.com/) intuitive gra
  [Modeliro](https://modeliro.com/) doesn't eliminate iteration - it makes each cycle smarter by enabling the iterations that actually matter. By integrating ideation with evaluation, lateral exploration with vertical depth, your team spends less time reconstructing context and more time solving actual problems. 
 
 <p align="center"> 
-	<a href="https://modeliro.com/"> <img src="/images/Modelliro.jpg" alt="Modeliro Logo" style="max-width:100%; height:auto;" > </a>
+	<a href="https://modeliro.com/"> <img src="/images/modeliro/logo2.svg" alt="Modeliro Logo" style="max-width:75%; height:auto;" > </a>
 </p>
 <!--
 <p align="center" style="font-size:12px;"> Graph-based structuring of Disassembly machine </p>

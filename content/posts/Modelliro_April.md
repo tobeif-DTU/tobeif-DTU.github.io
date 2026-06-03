@@ -23,3 +23,4 @@ What frequently goes unnoticed though is, that many of the issues originate from
 
 ![Image alt](/images/azembra.jpg) 
 <p style="font-size:12px; "> A Graph based modelling tool ensuring traceability: <a href="https://modeliro.com/">https://modeliro.com/</a> </p> 
+
