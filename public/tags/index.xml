@@ -98,10 +98,24 @@
       <description></description>
     </item>
     <item>
+      <title>Artifical Intelligence</title>
+      <link>http://localhost:1313/tags/artifical-intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/artifical-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Courses</title>
       <link>http://localhost:1313/tags/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/courses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design Intelligence</title>
+      <link>http://localhost:1313/tags/design-intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/design-intelligence/</guid>
       <description></description>
     </item>
     <item>

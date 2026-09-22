@@ -80,6 +80,14 @@
 &lt;p&gt;We&amp;rsquo;re always happy to work together with motivated students, so please just reach out or drop by if you&amp;rsquo;re interested in a thesis subject. Usually, we have several ideas “on stock” and you are of course more then welcome to come with your own idea. However, as also mentioned under open projects, we will need to give preference to topics that are related to our ongoing research.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Design Intelligence</title>
+      <link>http://localhost:1313/design-intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/design-intelligence/</guid>
+      <description>&lt;h2 id=&#34;design-intelligence&#34;&gt;Design Intelligence&lt;/h2&gt;
+&lt;p&gt;We are interested in how intelligent methods — optimization, knowledge representation, generative models, and human-AI collaboration — can be embedded directly into the engineering design process. Across our projects, one question recurs: how do we build systems that don&amp;rsquo;t just automate design tasks, but genuinely improve the quality, transparency, and trustworthiness of design decisions, all while contributing to efficient development processes? The four research threads below outline our current focus.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Open Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -94,7 +102,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
       <description>&lt;h2 id=&#34;in-search-of-the-ideal-design-&#34;&gt;In search of the Ideal Design &amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Our research objective is to widen the applicability of detailed engineering and optimization knowledge in earlier design stages to allow for better informed (design) decision making when conceptualizing and developing robust physical assemblies. This includes three main thrusts, all related to the questions of variation in engineering and development. While our background is the fundamental idea of Robust Design, Kinematic design heuristics, and tolerancing knowledge, we have gradually developed this direction towards a comprehensive toolbox for design automation and design exploration. Lastly, variation is only increasing when looking into circular products and the question of several lifecycles.&lt;/p&gt;</description>
+&lt;h2 id=&#34;main-research-thrusts&#34;&gt;Main Research thrusts&lt;/h2&gt;
+&lt;p&gt;We are interested in how intelligent methods — optimization, knowledge representation, generative models, and human-AI collaboration — can be embedded directly into the engineering design process. This is based on three main directions that we have explored extensively over time, all related to the questions of variation in engineering and development. Our main interest and time goes (at the moment):&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our Teaching</title>

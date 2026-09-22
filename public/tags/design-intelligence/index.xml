@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Design Intelligence on tobeif-DTU</title>
+    <link>http://localhost:1313/tags/design-intelligence/</link>
+    <description>Recent content in Design Intelligence on tobeif-DTU</description>
+    <image>
+      <title>tobeif-DTU</title>
+      <url>http://localhost:1313/images/tobeif.png</url>
+      <link>http://localhost:1313/images/tobeif.png</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/design-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design Intelligence</title>
+      <link>http://localhost:1313/design-intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/design-intelligence/</guid>
+      <description>&lt;h2 id=&#34;design-intelligence&#34;&gt;Design Intelligence&lt;/h2&gt;
+&lt;p&gt;We are interested in how intelligent methods — optimization, knowledge representation, generative models, and human-AI collaboration — can be embedded directly into the engineering design process. Across our projects, one question recurs: how do we build systems that don&amp;rsquo;t just automate design tasks, but genuinely improve the quality, transparency, and trustworthiness of design decisions, all while contributing to efficient development processes? The four research threads below outline our current focus.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

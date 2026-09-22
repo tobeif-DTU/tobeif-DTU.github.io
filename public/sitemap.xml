@@ -70,9 +70,15 @@
   </url><url>
     <loc>http://localhost:1313/supervision/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/artifical-intelligence/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/courses/</loc>
+  </url><url>
+    <loc>http://localhost:1313/design-intelligence/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/design-intelligence/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/learning/</loc>
   </url><url>

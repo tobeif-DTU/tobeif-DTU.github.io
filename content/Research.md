@@ -10,17 +10,15 @@ tags:
 ---
 
 ## In search of the Ideal Design ... 
-Our research objective is to widen the applicability of detailed engineering and optimization knowledge in earlier design stages to allow for better informed (design) decision making when conceptualizing and developing robust physical assemblies. This includes three main thrusts, all related to the questions of variation in engineering and development. While our background is the fundamental idea of Robust Design, Kinematic design heuristics, and tolerancing knowledge, we have gradually developed this direction towards a comprehensive toolbox for design automation and design exploration. Lastly, variation is only increasing when looking into circular products and the question of several lifecycles.
 
-![Image alt](/images/Research.png)
 
-Fundamental to our work is the exploration of new product configurations based on the developed theory of design trade-offs, i.e., contradicting requirements or constraints that drastically limit the attainable design space and often result in a reduced window for allowable variation. This idea interfaces well with approaches in the field of material design for energy systems, development of pharmaceutical manufacturing equipment, and digital twin approaches (areas that are explored in an interdisciplinary approach at DTU / see also list of research collaborations below). 
+## Main Research thrusts
+We are interested in how intelligent methods — optimization, knowledge representation, generative models, and human-AI collaboration — can be embedded directly into the engineering design process. This is based on three main directions that we have explored extensively over time, all related to the questions of variation in engineering and development. Our main interest and time goes (at the moment): 
+#### Design Intelligence  ([Statistics and Data Analysis](https://www.compute.dtu.dk/sections/stat))
 
-My ambition is to keep this research industrially relevant throughout continuous industrial collaboration and to systematically incorporate it into undergraduate and post graduate education, in order to enable students, PhDs, and design practitioners to solve the today’s challenges and to shape engineering design practices for the future.
+#### REmanufacturingwith DTU Compute ([Statistics and Data Analysis](https://www.compute.dtu.dk/sections/stat))
 
-## Current Research Projects
-Overview of current research projects following shortly
-
+both to be explored under the following pages. These topics are further the fundamental background for our collaborations with other great colleagues at DTU and beyond for our
 ## Interdisciplinary Research
 
 #### with DTU Compute ([Statistics and Data Analysis](https://www.compute.dtu.dk/sections/stat))
