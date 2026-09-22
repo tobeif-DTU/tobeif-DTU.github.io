@@ -14,9 +14,16 @@ enableEmoji = true
 
   [[menu.main]]
     identifier = "Research"
-    name = "Ideal Design"
+    name = "Research"
     url = "/Research"
     weight = 2
+
+  [[menu.main]]
+    identifier = "Intelligence"
+    name = "Design Intelligence"
+    url = "/Intelligence"
+    weight = 3
+
 
   [[menu.main]]
     identifier = "Remanufactory"

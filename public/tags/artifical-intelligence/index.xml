@@ -14,9 +14,9 @@
     <atom:link href="http://localhost:1313/tags/artifical-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design Intelligence</title>
-      <link>http://localhost:1313/design-intelligence/</link>
+      <link>http://localhost:1313/intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/design-intelligence/</guid>
+      <guid>http://localhost:1313/intelligence/</guid>
       <description>&lt;h2 id=&#34;design-intelligence&#34;&gt;Design Intelligence&lt;/h2&gt;
 &lt;p&gt;We are interested in how intelligent methods — optimization, knowledge representation, generative models, and human-AI collaboration — can be embedded directly into the engineering design process. Across our projects, one question recurs: how do we build systems that don&amp;rsquo;t just automate design tasks, but genuinely improve the quality, transparency, and trustworthiness of design decisions, all while contributing to efficient development processes? The four research threads below outline our current focus.&lt;/p&gt;</description>
     </item>

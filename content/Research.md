@@ -9,16 +9,13 @@ tags:
   - Publications
 ---
 
-## In search of the Ideal Design ... 
+## Our main research interests
+We are interested in how intelligent methods — robust design, trade-space exploration, optimization, knowledge representations, generative models, and human-AI collaboration — can be embedded directly into the engineering design process. This is based on three main directions that we have explored extensively over time, all related to the questions of variation in engineering and development. Our main interest and time goes (at the moment) to research related to: 
+#### [Design Intelligence]({{< relref path=Intelligence.md >}})
 
+#### [Remanufacturing]({{< relref path=Remanufactory.md >}})
 
-## Main Research thrusts
-We are interested in how intelligent methods — optimization, knowledge representation, generative models, and human-AI collaboration — can be embedded directly into the engineering design process. This is based on three main directions that we have explored extensively over time, all related to the questions of variation in engineering and development. Our main interest and time goes (at the moment): 
-#### Design Intelligence  ([Statistics and Data Analysis](https://www.compute.dtu.dk/sections/stat))
-
-#### REmanufacturingwith DTU Compute ([Statistics and Data Analysis](https://www.compute.dtu.dk/sections/stat))
-
-both to be explored under the following pages. These topics are further the fundamental background for our collaborations with other great colleagues at DTU and beyond for our
+both detailed under the corresponding subpages. These topics are further the fundamental background for our collaborations with other great colleagues here at DTU (and beyond) for our
 ## Interdisciplinary Research
 
 #### with DTU Compute ([Statistics and Data Analysis](https://www.compute.dtu.dk/sections/stat))
