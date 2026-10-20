@@ -4,7 +4,7 @@
 	draft = false
 	title = 'A bit of Culture'
 	[cover]
-	image = "/images/Prototype.jpg"  
+	image = "https://i.ytimg.com/an_webp/RJQxzT4GAdw/mqdefault_6s.webp?du=3000&sqp=CKTF3tYG&rs=AOn4CLCax0zgZBxU9nOR_L2ktcr16uzqtw"  
 	alt = "Reuse"
 	relative = false
 	hiddenInSingle = true
@@ -17,12 +17,11 @@ Just in case you need something interesting to listen to. Just came from a bit o
 
 {{< youtube GazJC5cAcIw >}}
 
-over great interviews in the Romesh Ranganathan Show https://www.romeshranganathan.co.uk/podcast/, incl. Loyle Carner, to this wonderful conversation with Stephen Graham who apparently is into hip hop (did not know that). What a great vibe  :ok_hand: :sunglasses: :clap:
+over great interviews in the [Romesh Ranganathan Show](https://www.romeshranganathan.co.uk/podcast/), incl. Loyle Carner, to this wonderful conversation with Stephen Graham who apparently is into hip hop (did not know that). What a great vibe  :ok_hand: :sunglasses:
 
 {{< youtube RJQxzT4GAdw >}}
 
 And just a day after sitting next to someone on a plane who was watching Snatch :smile:
-
 
 
 
