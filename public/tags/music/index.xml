@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Music on tobeif-DTU</title>
+    <link>http://localhost:1313/tags/music/</link>
+    <description>Recent content in Music on tobeif-DTU</description>
+    <image>
+      <title>tobeif-DTU</title>
+      <url>http://localhost:1313/images/tobeif.png</url>
+      <link>http://localhost:1313/images/tobeif.png</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A bit of Culture</title>
+      <link>http://localhost:1313/posts/culture_october/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/culture_october/</guid>
+      <description>&lt;p&gt;Just in case you need something interesting to listen to. Just came from a bit of a mellow HipHop October mood&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/GazJC5cAcIw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;over great interviews in the Romesh Ranganathan Show &lt;a href=&#34;https://www.romeshranganathan.co.uk/podcast/&#34;&gt;https://www.romeshranganathan.co.uk/podcast/&lt;/a&gt;, incl. Loyle Carner, to this wonderful conversation with Stephen Graham who apparently is into hip hop (did not know that). What a great vibe  &amp;#x1f44c; &amp;#x1f60e; &amp;#x1f44f;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
