@@ -4,7 +4,7 @@
 	draft = false
 	title = 'A bit of Culture'
 	[cover]
-	image = "https://youtube.com"  
+	image = "https://img.youtube.com/vi/RJQxzT4GAdw/maxresdefault.jpg"**
 	alt = "Reuse"
 	relative = false
 	hiddenInSingle = true
