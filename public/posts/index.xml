@@ -11,15 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Just in case ... </title>
       <link>http://localhost:1313/posts/culture_october/</link>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/culture_october/</guid>
-      <description>&lt;p&gt;&amp;hellip; you need some interesting inspiration in a completely different direction.&lt;/p&gt;
-&lt;p&gt;Just came from a bit of a &lt;a href=&#34;https://www.youtube.com/watch?v=GazJC5cAcIw&amp;amp;t=8s&#34;&gt;mellow HipHop&lt;/a&gt; October mood over great interviews in the &lt;a href=&#34;https://www.romeshranganathan.co.uk/podcast/&#34;&gt;Romesh Ranganathan Show&lt;/a&gt;, incl. Loyle Carner, to this wonderful conversation with Stephen Graham who apparently is into hip hop (did not know that). What a great vibe  &amp;#x1f44c; &amp;#x1f60e;&lt;/p&gt;
+      <description>&lt;p&gt;&amp;hellip; you need some distraction / inspiration in a completely different direction.&lt;/p&gt;
+&lt;p&gt;Just came from a bit of a &lt;a href=&#34;https://www.youtube.com/watch?v=GazJC5cAcIw&amp;amp;t=8s&#34;&gt;mellow HipHop&lt;/a&gt; October mood over great interviews in the &lt;a href=&#34;https://www.romeshranganathan.co.uk/podcast/&#34;&gt;Romesh Ranganathan Show&lt;/a&gt;, incl. Loyle Carner, to this wonderful conversation with Stephen Graham. What a great vibe  &amp;#x1f44c; &amp;#x1f60e;&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/RJQxzT4GAdw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -28,11 +28,19 @@
     </item>
     <item>
       <title>Great Ideas, nowhere to live - </title>
-      <link>http://localhost:1313/posts/modeliro_may/</link>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/modeliro_may/</guid>
+      <link>http://localhost:1313/posts/modeliro_august/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/modeliro_august/</guid>
       <description>&lt;h3 id=&#34;why-design-support-tools-need-to-be-built-for-learning-not-just-for-doing&#34;&gt;Why design support tools need to be built for &lt;em&gt;Learning&lt;/em&gt;, not just for &lt;em&gt;Doing&lt;/em&gt;!&lt;/h3&gt;
 &lt;p&gt;There are two modes of design problem-solving: &lt;strong&gt;lateral&lt;/strong&gt; (broad ideation to avoid premature fixation) and &lt;strong&gt;vertical&lt;/strong&gt; (deep evaluation to ensure feasibility). However, far too often these mindsets are kept frustratingly separate. The result? A &lt;strong&gt;design dilemma&lt;/strong&gt;: Ideas get judged without sufficient context, or half-formed concepts lock teams into narrow solutions too early. Either way, critical knowledge gaps emerge, leading to endless revision cycles, interdisciplinary silos, and outcomes that nobody&amp;rsquo;s quite satisfied with.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Just in case ... </title>
+      <link>http://localhost:1313/posts/culture_august/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/culture_august/</guid>
+      <description>&lt;p&gt;&amp;hellip; you need a good read at the intersection of novel, philosophy, and hands-on discussion of engineering design it is time to revisit &lt;a href=&#34;https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance&#34;&gt;&lt;em&gt;Zen and the Art of Motorcycle Maintenance&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Finally managed to read it in full and, while definitely an unconventional book, definitely a great one.  And even some nicely concise explanations &lt;a href=&#34;http://localhost:1313/files/Zen.pdf&#34;&gt;On the Scientific Method&lt;/a&gt; included for free. But that might be too much of an academic&amp;rsquo;s perspective on a summer read &amp;#x1f393; &amp;#x263a;&amp;#xfe0f;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Advancing Batch Disassembly processes</title>

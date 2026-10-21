@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GoodReads on tobeif-DTU</title>
+    <link>http://localhost:1313/tags/goodreads/</link>
+    <description>Recent content in GoodReads on tobeif-DTU</description>
+    <image>
+      <title>tobeif-DTU</title>
+      <url>http://localhost:1313/images/tobeif.png</url>
+      <link>http://localhost:1313/images/tobeif.png</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/goodreads/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just in case ... </title>
+      <link>http://localhost:1313/posts/culture_august/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/culture_august/</guid>
+      <description>&lt;p&gt;&amp;hellip; you need a good read at the intersection of novel, philosophy, and hands-on discussion of engineering design it is time to revisit &lt;a href=&#34;https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance&#34;&gt;&lt;em&gt;Zen and the Art of Motorcycle Maintenance&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Finally managed to read it in full and, while definitely an unconventional book, definitely a great one.  And even some nicely concise explanations &lt;a href=&#34;http://localhost:1313/files/Zen.pdf&#34;&gt;On the Scientific Method&lt;/a&gt; included for free. But that might be too much of an academic&amp;rsquo;s perspective on a summer read &amp;#x1f393; &amp;#x263a;&amp;#xfe0f;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

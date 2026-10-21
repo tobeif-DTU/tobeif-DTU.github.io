@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Great Ideas, nowhere to live -  | tobeif-DTU</title>
+<meta name="keywords" content="KG, Design Tools, Systems Engineering">
+<meta name="description" content="Why design support tools need to be built for Learning, not just for Doing!
+There are two modes of design problem-solving: lateral (broad ideation to avoid premature fixation) and vertical (deep evaluation to ensure feasibility). However, far too often these mindsets are kept frustratingly separate. The result? A design dilemma: Ideas get judged without sufficient context, or half-formed concepts lock teams into narrow solutions too early. Either way, critical knowledge gaps emerge, leading to endless revision cycles, interdisciplinary silos, and outcomes that nobody&rsquo;s quite satisfied with.">
+<meta name="author" content="tobeif@dtu.dk">
+<link rel="canonical" href="http://localhost:1313/posts/modeliro_august/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.950cfd0af6a910301c18de8699b3ecb261e10bd2dd17219bbd96eca56987870f.css" integrity="sha256-lQz9CvapEDAcGN6GmbPssmHhC9LdFyGbvZbspWmHhw8=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/modeliro_august/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="tobeif-DTU (Alt + H)">tobeif-DTU</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/research" title="Research">
+                    <span>Research</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/intelligence" title="Design Intelligence">
+                    <span>Design Intelligence</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/remanufactory" title="Remanufactory">
+                    <span>Remanufactory</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/courses" title="Courses">
+                    <span>Courses</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/projects" title="BSc/MSc Projects">
+                    <span>BSc/MSc Projects</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Great Ideas, nowhere to live - 
+    </h1>
+    <div class="post-meta"><span title='2026-08-30 00:00:00 +0000 UTC'>August 30, 2026</span>&nbsp;·&nbsp;tobeif@dtu.dk
+
+</div>
+  </header> 
+  <div class="post-content"><h3 id="why-design-support-tools-need-to-be-built-for-learning-not-just-for-doing">Why design support tools need to be built for <em>Learning</em>, not just for <em>Doing</em>!<a hidden class="anchor" aria-hidden="true" href="#why-design-support-tools-need-to-be-built-for-learning-not-just-for-doing">#</a></h3>
+<p>There are two modes of design problem-solving: <strong>lateral</strong> (broad ideation to avoid premature fixation) and <strong>vertical</strong> (deep evaluation to ensure feasibility). However, far too often these mindsets are kept frustratingly separate. The result? A <strong>design dilemma</strong>: Ideas get judged without sufficient context, or half-formed concepts lock teams into narrow solutions too early. Either way, critical knowledge gaps emerge, leading to endless revision cycles, interdisciplinary silos, and outcomes that nobody&rsquo;s quite satisfied with.</p>
+<!-- Available tools used in (engineering) design reflect this challenge: Miro boards sprawling with disconnected thoughts, notebook sketches lost to time, efforts for creating parametrized CAD models based on a half-baked understanding of the design task. All these symptoms have one common cause. When cross-functional teams can't trace their ideation, when knowledge is scattered, and when it gets unclear how a decision was made or why an idea was abandoned, collaboration breaks down and institutional knowledge evaporates. -->
+<p><strong>Design as Learning</strong></p>
+<p>So let&rsquo;s stop treating design as a linear march toward &ldquo;the solution&rdquo; and  embrace it as what it is, a <strong>learning exercise</strong>.</p>
+<p>This reframing asks a set of fundamental questions: How do we <strong>collaboratively generate</strong> and <strong>systematically document</strong> not just outcomes, but the knowledge behind our ideas? How do we <strong>systematically choose</strong> between alternatives using this analytical knowledge, not just intuition or, largely biased, positive test strategies alone? How do we <strong>manage tasks and assign roles</strong> when UX specialists, mechanical designers, electrical and manufacturing engineers all need to contribute—without creating silos?</p>
+<p><strong>The answer is a system treating ideas as living, traceable, interconnected entities &hellip;</strong></p>
+<p>&hellip; instead of relying on whiteboard solutions without any knowledge architecture or traditional, geometry focused, engineering documentation tools such as CAD. Whether it is for analyzing legacy products to collect new knowledge and to formulate new ideas (be that in manual or automatic workflows), or for exploring a new idea and new knowledge from scratch.</p>
+<!--
+![Image alt](/images/modeliro/2605_modeliro_PMP.jpg) 
+<p style="font-size:12px; "> A Graph based modelling tool ensuring traceability: <a href="https://modeliro.com/">https://modeliro.com/</a> </p> 
+-->
+<figure style="text-align: center; margin: 0;">
+  <img src="/images/modeliro/2605_modeliro_PMP.jpg"
+	   alt="Graph-based Interface"
+	   style="max-width: 80%; height: auto; margin: 0 auto;"
+	   loading="lazy">
+  <figcaption style="font-size: 12px;">
+    Graph-based interface for product development and realisation in <a href="https://modeliro.com">https://modeliro.com </a> | Courtesy: PMP recycling 
+  </figcaption>
+</figure>
+<p><strong>Traceability without bureaucracy</strong>
+Addressing the above question, <a href="https://modeliro.com/">Modeliro&rsquo;s</a> intuitive graph-based interface captures every iteration, every rejected path, every &ldquo;what if&rdquo; scenario - not as paperwork, but as navigable knowledge. When stakeholders ask &ldquo;why did we choose this?&rdquo; you&rsquo;ll have answers, complete with context, thus:</p>
+<ul>
+<li><strong>A Space for Ideas to live</strong>
+No more abandoned Miro boards or forgotten sketches. Every concept, constraint, and decision lives in a retrievable, interconnected system. Your design history becomes a searchable asset, not a mystery.</li>
+<li><strong>Structure that serves you</strong>
+A standardized graph-based format letting relationships between ideas surface organically. Connect components to requirements. Trace how early-stage decisions relate to trade-offs, and monitor how explorations evolved into final specifications—without imposing rigid workflows that don&rsquo;t fit how your team actually works.</li>
+<li><strong>Collaborative Intelligence</strong>
+Assign roles, manage tasks, and break down disciplinary silos with a tool built for interdisciplinary development. Everyone sees how their work connects to the whole.</li>
+<li><strong>Analytical Rigor, Creative Freedom</strong>
+Document and compare alternatives using real knowledge, not guesswork and evaluate ideas against this documented knowledge. Make systematic choices while preserving the flexibility to pivot when new insights emerge.</li>
+</ul>
+<p><a href="https://modeliro.com/">Modeliro</a> doesn&rsquo;t eliminate iteration - it makes each cycle smarter by enabling the iterations that actually matter. By integrating ideation with evaluation, lateral exploration with vertical depth, your team spends less time reconstructing context and more time solving actual problems.</p>
+<p align="center"> 
+	<a href="https://modeliro.com/"> <img src="/images/modeliro/logo2.svg" alt="Modeliro Logo" style="max-width:75%; height:auto;" > </a>
+</p>
+<!--
+<p align="center" style="font-size:12px;"> Graph-based structuring of Disassembly machine </p>
+<p>Every design team faces the same paradox: iterate too fast, and you build on shaky foundations. Pause to evaluate, and promising ideas getgrow stale before they&rsquo;re fully understood.</p>
+<p>Design processes are iterative
+2 problem solving activities vertical and lateral problem solving
+but usually heavily separated, so that ideas are either evaluated without sufficient knowledge or premature ideas are used leading to a premature focus on one specific aspect of the design space
+Both resulting in knowledge gaps that can be detrimental for your development, be it, in the worst case, the quality of the outcome. Or, more likely, resulting in excessive iterations and a costly, nicht-zufriedenstellendem prozess</p>
+<p>The combination of these two aspects requires better documentation and traceability of earlier ideas
+Perhaps also a bit better collaboration, particularly between disciplines</p>
+<p>How to overcome this problem
+We perceive design as a Learning exercise and ask the question how to collboratively develop,  systematically document, and systematically choose ideas, all while managing the tasks assigning roles (particularly in interdicsiplinary developmetn where silos prevent communication across technical disciplines)</p>
+<p>The problem: not software supports this kind of task. Ideation is largely manual and (even if Automatic) ad-hoc. Results are documented in non-smart and ,first and foremost, difficult to retrieve versions, be that miro boards, paper notebooks, etc. Instead, Designers than often jump to more or less detailed CAD representation</p>
+<p>Modelliro offers the answer.
+Be that based on an legacy product that you analyse
+or based on architectural structuring
+the easy to use graph based interface helps you and your team to share ideas, structure your project, assign roles, and ultimately document and compare your ideas based on analytical knowledge
+Ensuring traceability of your design process and a space for your ideas to live.&ndash;&gt;</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/tags/kg/">KG</a></li>
+      <li><a href="http://localhost:1313/tags/design-tools/">Design Tools</a></li>
+      <li><a href="http://localhost:1313/tags/systems-engineering/">Systems Engineering</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/">tobeif-DTU</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
