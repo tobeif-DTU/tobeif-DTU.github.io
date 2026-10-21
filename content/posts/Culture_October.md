@@ -2,10 +2,10 @@
 +++
 	date = 2026-10-20
 	draft = false
-	title = 'A bit of Culture'
+	title = 'Just in case ... '
 	[cover]
 	image = "https://img.youtube.com/vi/RJQxzT4GAdw/maxresdefault.jpg"
-	alt = "Reuse"
+	alt = "thumbnail from video podcast"
 	relative = false
 	hiddenInSingle = true
 	[params]
@@ -13,14 +13,9 @@
 	  tags = ["Other", "Music"]
 +++
 
+... you need something interesting to listen to. 
 
-
-Just in case you need something interesting to listen to. Just came from a bit of a mellow HipHop October mood 
-
-{{< youtube GazJC5cAcIw >}}
-<p style="font-size:12px; "> </p>
-
-over great interviews in the [Romesh Ranganathan Show](https://www.romeshranganathan.co.uk/podcast/), incl. Loyle Carner, to this wonderful conversation with Stephen Graham who apparently is into hip hop (did not know that). What a great vibe  :ok_hand: :sunglasses:
+Just came from a bit of a [mellow HipHop](https://www.youtube.com/watch?v=GazJC5cAcIw&t=8s) October mood over great interviews in the [Romesh Ranganathan Show](https://www.romeshranganathan.co.uk/podcast/), incl. Loyle Carner, to this wonderful conversation with Stephen Graham who apparently is into hip hop (did not know that). What a great vibe  :ok_hand: :sunglasses:
 
 {{< youtube RJQxzT4GAdw >}}
 <p style="font-size:12px; "> </p>
