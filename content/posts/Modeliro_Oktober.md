@@ -29,4 +29,4 @@ A few weeks into this semester, we’re now introducing our new collaborative de
 
 Will the students over-rely on it (*Automation Bias*) or dismiss it when the sheer volume of output overwhelms a coherent argument (*Algorithm Aversion*, *Information overload*)? Will hard questions quietly get swapped for the now easily available answers (*Attribute Substitution*) or do the students manage to use the use the engineering context they've already built effectively when collaborating with an AI-supported system? Who benefits most and how does all this shift with the task?
 
-So: ****many exciting questions and much more to follow soon!***
+So: ***many exciting questions and much more to follow soon!***

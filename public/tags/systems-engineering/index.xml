@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/systems-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On human-AI collaboration</title>
+      <link>http://localhost:1313/posts/modeliro_oktober/</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/modeliro_oktober/</guid>
+      <description>&lt;p&gt;At DTU we start our introductory design course for MEK students with an overview of cognitive biases, i.e. an understanding how they shape development decisions, before focusing on the design process itself. &lt;/p&gt;
+&lt;p&gt;A few weeks into this semester, we’re now introducing our new collaborative design support tool (with MCP connection) for the first time. And with Biases and AI in mind, we’re of course extremely curious how this step towards will go?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Great Ideas, nowhere to live - </title>
       <link>http://localhost:1313/posts/modeliro_august/</link>
