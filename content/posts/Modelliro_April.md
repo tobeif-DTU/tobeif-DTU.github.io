@@ -4,7 +4,7 @@
 	title = 'Long Shadow, Little Structure - '
 	tags = ["Modelliro"]
 	[cover]
-	image = "/images/modeliro/2604_modeliro_toollandscape.jpg" 
+	image = "/images/02_modeliro/2604_modeliro_toollandscape.jpg" 
 	alt = "Tool support in early design"
 	relative = false
 	hiddenInSingle = true

@@ -20,7 +20,7 @@ Just came from a bit of a [mellow HipHop](https://www.youtube.com/watch?v=GazJC5
 {{< youtube RJQxzT4GAdw >}}
 <p style="font-size:12px; "> </p>
 
-And just one day after sitting next to someone on a plane who was watching Snatch :relax:
+And just one day after sitting next to someone on a plane who was watching Snatch :relaxed:
 
 
 

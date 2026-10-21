@@ -4,7 +4,7 @@
 	draft = false
 	title = 'Great Ideas, nowhere to live - '
 	[cover]
-	image = "/images/modeliro/2605_modeliro_PMP.jpg"  
+	image = "/images/02_modeliro/2605_modeliro_PMP.jpg"  
 	alt = "PMP Recycling Graph"
 	relative = false
 	hiddenInSingle = true

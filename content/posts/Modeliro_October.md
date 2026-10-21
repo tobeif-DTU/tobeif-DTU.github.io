@@ -4,8 +4,8 @@
 	draft = false
 	title = 'On human-AI collaboration'
 	[cover]
-	image = "/images/modeliro/2610_41603course.jpg"  
-	alt = "Picture from lecture"
+	image = "/images/02_modeliro/2610_41603course.jpg"  
+	alt = "Picture from the lecture"
 	relative = false
 	hiddenInSingle = true
 	[params]
