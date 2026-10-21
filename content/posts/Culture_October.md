@@ -1,6 +1,6 @@
 
 +++
-	date = 2026-10-20
+	date = 2026-10-19
 	draft = false
 	title = 'Just in case ... '
 	[cover]
@@ -13,9 +13,9 @@
 	  tags = ["Other", "Music"]
 +++
 
-... you need some interesting inspiration in a completely different direction. 
+... you need some distraction / inspiration in a completely different direction. 
 
-Just came from a bit of a [mellow HipHop](https://www.youtube.com/watch?v=GazJC5cAcIw&t=8s) October mood over great interviews in the [Romesh Ranganathan Show](https://www.romeshranganathan.co.uk/podcast/), incl. Loyle Carner, to this wonderful conversation with Stephen Graham who apparently is into hip hop (did not know that). What a great vibe  :ok_hand: :sunglasses:
+Just came from a bit of a [mellow HipHop](https://www.youtube.com/watch?v=GazJC5cAcIw&t=8s) October mood over great interviews in the [Romesh Ranganathan Show](https://www.romeshranganathan.co.uk/podcast/), incl. Loyle Carner, to this wonderful conversation with Stephen Graham. What a great vibe  :ok_hand: :sunglasses:
 
 {{< youtube RJQxzT4GAdw >}}
 <p style="font-size:12px; "> </p>

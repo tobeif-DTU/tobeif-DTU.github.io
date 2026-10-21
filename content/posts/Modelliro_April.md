@@ -8,6 +8,7 @@
 	alt = "Tool support in early design"
 	relative = false
 	hiddenInSingle = true
+	hiddenInHomeList = true
 	[params]
 	author = 'tobeif@dtu.dk'
 	tags = ["KG", "Design Tools", "Systems Engineering"]

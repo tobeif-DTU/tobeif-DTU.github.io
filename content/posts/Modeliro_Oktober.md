@@ -1,8 +1,8 @@
 
 +++
-	date = 2026-05-21
-	draft = false
-	title = 'Great Ideas, nowhere to live - '
+	date = 2026-10-21
+	draft = true
+	title = 'On human-AI collaboration'
 	[cover]
 	image = "/images/modeliro/2605_modeliro_PMP.jpg"  
 	alt = "PMP Recycling Graph"
